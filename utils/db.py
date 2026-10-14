@@ -201,7 +201,7 @@ def init_db():
                 1899.00,
                 999.00,
                 20,
-                "https://images.unsplash.com/photo-1611591475152-473523dd665e?auto=format&fit=crop&w=800&q=80",
+                "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
                 1
             ),
             (
@@ -267,7 +267,7 @@ def init_db():
                 1599.00,
                 749.00,
                 22,
-                "https://images.unsplash.com/photo-1611591475152-473523dd665e?auto=format&fit=crop&w=800&q=80",
+                "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=80",
                 1
             ),
         ]

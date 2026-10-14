@@ -92,166 +92,277 @@ if "last_order" not in st.session_state:
     st.session_state.last_order = None
 
 # =====================================================================
-# LUXURY CUSTOM CSS STYLING
+# LUXURY CUSTOM CSS STYLING (FINE JEWELLERY MAISON AESTHETIC)
 # =====================================================================
 
 st.markdown("""
 <style>
-    /* Global Font & Theme */
-    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800;900&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
 
     html, body, [class*="css"] {
-        font-family: 'Plus Jakarta Sans', sans-serif;
+        font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
     }
 
-    h1, h2, h3, .brand-font {
+    h1, h2, h3, .maison-title {
         font-family: 'Cinzel', serif !important;
-        letter-spacing: 0.05em;
+        letter-spacing: 0.08em;
     }
 
-    /* Backgrounds & Text */
+    .editorial-serif {
+        font-family: 'Playfair Display', Georgia, serif !important;
+    }
+
+    /* Background: Deep Midnight Obsidian with Warm Gold Radiance */
     .stApp {
-        background: radial-gradient(circle at 50% 0%, #112544 0%, #0A1931 70%, #060E1A 100%);
-        color: #F8F9FA;
+        background: radial-gradient(ellipse at 50% -20%, #172B4D 0%, #091322 55%, #040810 100%) !important;
+        color: #F8F9FA !important;
     }
 
-    /* Luxury Header Container */
-    .brand-hero {
-        text-align: center;
-        padding: 24px 16px 12px 16px;
-        background: linear-gradient(180deg, rgba(197, 160, 89, 0.08) 0%, rgba(10, 25, 49, 0.2) 100%);
-        border-bottom: 1px solid rgba(197, 160, 89, 0.25);
-        margin-bottom: 20px;
-    }
-
-    .brand-title {
-        color: #C5A059;
-        font-size: 2.2rem;
-        font-weight: 700;
-        margin-bottom: 4px;
-        text-shadow: 0 0 15px rgba(197, 160, 89, 0.35);
-    }
-
-    .brand-tagline {
-        color: #D1D5DB;
-        font-size: 0.88rem;
-        letter-spacing: 0.12em;
+    /* Top Festive Announcement Ribbon */
+    .announcement-ribbon {
+        background: linear-gradient(90deg, #8A6421 0%, #D4AF37 50%, #8A6421 100%);
+        color: #070E1A;
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.14em;
         text-transform: uppercase;
-        margin-bottom: 10px;
+        text-align: center;
+        padding: 6px 12px;
+        margin: -40px -40px 16px -40px;
+        box-shadow: 0 4px 15px rgba(212, 175, 55, 0.25);
     }
 
-    /* Trust Pill Badges */
-    .trust-badges {
+    /* Navigation Container */
+    .nav-bar-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px 0 16px 0;
+        border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+        margin-bottom: 24px;
+    }
+
+    .brand-logo-text {
+        font-family: 'Cinzel', serif;
+        font-size: 1.45rem;
+        font-weight: 800;
+        color: #D4AF37;
+        letter-spacing: 0.1em;
+        text-shadow: 0 0 20px rgba(212, 175, 55, 0.4);
+    }
+
+    .brand-sub-badge {
+        font-size: 0.65rem;
+        color: #A0AEC0;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+    }
+
+    /* Editorial Hero Showcase */
+    .editorial-hero {
+        text-align: center;
+        padding: 36px 20px 24px 20px;
+        background: linear-gradient(180deg, rgba(212, 175, 55, 0.08) 0%, rgba(13, 25, 46, 0.3) 100%);
+        border: 1px solid rgba(212, 175, 55, 0.25);
+        border-radius: 20px;
+        margin-bottom: 28px;
+        position: relative;
+        box-shadow: inset 0 0 40px rgba(212, 175, 55, 0.05);
+    }
+
+    .hero-pretitle {
+        font-size: 0.78rem;
+        color: #DFC085;
+        letter-spacing: 0.25em;
+        text-transform: uppercase;
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .hero-headline {
+        font-family: 'Cinzel', serif;
+        font-size: 2.5rem;
+        font-weight: 800;
+        color: #FFFFFF;
+        letter-spacing: 0.06em;
+        margin-bottom: 10px;
+        text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+    }
+
+    .hero-lead {
+        font-family: 'Playfair Display', serif;
+        font-style: italic;
+        color: #CBD5E1;
+        font-size: 1.05rem;
+        max-width: 680px;
+        margin: 0 auto 20px auto;
+        line-height: 1.6;
+    }
+
+    /* Trust Chips */
+    .trust-chips-row {
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
-        gap: 8px;
-        margin-top: 8px;
+        gap: 10px;
+        margin-top: 14px;
     }
 
-    .trust-pill {
-        background: rgba(197, 160, 89, 0.12);
-        color: #DFC085;
-        border: 1px solid rgba(197, 160, 89, 0.3);
-        border-radius: 20px;
-        padding: 4px 12px;
-        font-size: 0.75rem;
+    .trust-chip {
+        background: rgba(14, 25, 45, 0.85);
+        border: 1px solid rgba(212, 175, 55, 0.35);
+        border-radius: 30px;
+        padding: 6px 16px;
+        font-size: 0.78rem;
         font-weight: 600;
+        color: #F3E5AB;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
     }
 
-    /* Product Card */
-    .product-card {
-        background: rgba(19, 39, 67, 0.7);
-        border: 1px solid rgba(197, 160, 89, 0.22);
-        border-radius: 14px;
-        padding: 12px;
-        transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
-        margin-bottom: 16px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
+    /* Luxury Product Card */
+    .luxury-card {
+        background: rgba(14, 25, 45, 0.75);
+        border: 1px solid rgba(212, 175, 55, 0.22);
+        border-radius: 18px;
+        padding: 14px;
+        margin-bottom: 24px;
+        transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+        position: relative;
+        backdrop-filter: blur(10px);
     }
 
-    .product-card:hover {
-        transform: translateY(-3px);
-        border-color: #C5A059;
-        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.4);
+    .luxury-card:hover {
+        transform: translateY(-5px);
+        border-color: #D4AF37;
+        box-shadow: 0 16px 36px rgba(0, 0, 0, 0.5), 0 0 20px rgba(212, 175, 55, 0.15);
     }
 
-    .product-badge {
+    .card-img-wrapper {
+        position: relative;
+        width: 100%;
+        height: 240px;
+        border-radius: 12px;
+        overflow: hidden;
+        background: #060B14;
+    }
+
+    .card-img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.4s ease;
+    }
+
+    .luxury-card:hover .card-img {
+        transform: scale(1.06);
+    }
+
+    .floating-badge {
         position: absolute;
         top: 10px;
         left: 10px;
-        background: #0A1931;
-        color: #DFC085;
-        border: 1px solid #C5A059;
+        background: rgba(7, 14, 26, 0.88);
+        border: 1px solid #D4AF37;
+        color: #F3E5AB;
         font-size: 0.68rem;
         font-weight: 700;
-        padding: 2px 8px;
-        border-radius: 12px;
+        padding: 3px 10px;
+        border-radius: 20px;
+        backdrop-filter: blur(6px);
         z-index: 2;
+        letter-spacing: 0.04em;
     }
 
-    .product-title {
-        font-size: 0.95rem;
+    .card-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 1.02rem;
         font-weight: 600;
         color: #FFFFFF;
-        margin-top: 8px;
+        margin: 12px 0 4px 0;
+        line-height: 1.35;
         min-height: 44px;
-        line-height: 1.3;
     }
 
-    .price-mrp {
-        color: #8E9BB0;
-        font-size: 0.8rem;
+    .card-sku {
+        font-size: 0.72rem;
+        color: #8C9BB0;
+        letter-spacing: 0.05em;
+        margin-bottom: 8px;
+    }
+
+    .card-pricing-row {
+        display: flex;
+        align-items: baseline;
+        gap: 8px;
+        margin-bottom: 4px;
+    }
+
+    .card-selling-price {
+        font-size: 1.25rem;
+        font-weight: 800;
+        color: #D4AF37;
+    }
+
+    .card-mrp {
+        font-size: 0.82rem;
+        color: #7A889B;
         text-decoration: line-through;
-        margin-right: 6px;
     }
 
-    .price-selling {
-        color: #DFC085;
-        font-size: 1.15rem;
-        font-weight: 700;
-    }
-
-    .gst-tag {
+    .card-discount-tag {
+        background: rgba(16, 185, 129, 0.18);
+        color: #34D399;
         font-size: 0.68rem;
-        color: #A0AEC0;
+        font-weight: 700;
+        padding: 2px 6px;
+        border-radius: 4px;
+        border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+
+    .card-gst-text {
+        font-size: 0.68rem;
+        color: #94A3B8;
+        margin-bottom: 10px;
         display: block;
     }
 
-    /* Cart Sticky Header */
-    .cart-summary-box {
-        background: linear-gradient(135deg, #162C4E 0%, #0F1F38 100%);
-        border: 1px solid #C5A059;
-        border-radius: 12px;
-        padding: 16px;
-        margin-bottom: 24px;
-        box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    /* Checkout & Bag Section */
+    .bag-container-box {
+        background: linear-gradient(145deg, #132442 0%, #0A1424 100%);
+        border: 1px solid #D4AF37;
+        border-radius: 18px;
+        padding: 24px;
+        box-shadow: 0 12px 36px rgba(0, 0, 0, 0.5);
+        margin-top: 24px;
     }
 
-    /* Buttons */
+    /* Bottom Floating Action Bar */
+    .floating-bag-bar {
+        position: fixed;
+        bottom: 16px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 90%;
+        max-width: 580px;
+        background: linear-gradient(90deg, #14284B 0%, #0D1C35 100%);
+        border: 1px solid #D4AF37;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7), 0 0 20px rgba(212, 175, 55, 0.25);
+        border-radius: 40px;
+        padding: 10px 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        z-index: 999;
+    }
+
+    /* Primary Buttons */
     .stButton > button {
         border-radius: 8px;
         font-weight: 600;
         transition: all 0.2s;
     }
 
-    .primary-gold-btn > button {
-        background: linear-gradient(135deg, #C5A059 0%, #A8813B 100%) !important;
-        color: #0A1931 !important;
-        border: none !important;
-        font-weight: 700 !important;
-    }
-
-    .whatsapp-btn > button {
-        background: linear-gradient(135deg, #25D366 0%, #128C7E 100%) !important;
-        color: #FFFFFF !important;
-        border: none !important;
-        font-weight: 700 !important;
-    }
-
-    /* Metrics card for Admin */
+    /* Metric card for Admin */
     .metric-card {
         background: rgba(19, 39, 67, 0.8);
         border: 1px solid rgba(197, 160, 89, 0.3);
@@ -281,37 +392,50 @@ st.markdown("""
 params = st.query_params
 active_mode = params.get("mode", "store")
 
-# Top Navigation Bar & Mode Switcher
-nav_col1, nav_col2, nav_col3 = st.columns([6, 3, 3])
+# Top Luxury Announcement Ribbon
+st.markdown("""
+    <div class="announcement-ribbon">
+        ✦ FESTIVE CURATION • 100% WATERPROOF ANTI-TARNISH ORNAMENTS • FREE PAN-INDIA EXPRESS SHIPPING • 3% GST INCLUDED ✦
+    </div>
+""", unsafe_allow_html=True)
 
-with nav_col1:
+# Top Maison Navigation Bar
+nav_c1, nav_c2, nav_c3 = st.columns([6, 3, 3])
+
+cart_count = sum(item["qty"] for item in st.session_state.cart.values())
+cart_total = sum(item["product"]["selling_price"] * item["qty"] for item in st.session_state.cart.values())
+
+with nav_c1:
     st.markdown("""
-        <div style="display:flex; align-items:center; gap:10px; padding: 4px 0;">
-            <span style="font-size:1.4rem;">💎</span>
-            <span style="font-family:'Cinzel', serif; font-size:1.15rem; font-weight:700; color:#C5A059;">ROSELET JEWELS</span>
+        <div style="display:flex; align-items:center; gap:12px;">
+            <span style="font-size:1.8rem; filter:drop-shadow(0 0 10px rgba(212,175,55,0.5));">💎</span>
+            <div>
+                <div class="brand-logo-text">ROSELET JEWELS</div>
+                <div class="brand-sub-badge">KERALA MAISON • ALL-INDIA DELIVERY</div>
+            </div>
         </div>
     """, unsafe_allow_html=True)
 
-with nav_col2:
-    cart_count = sum(item["qty"] for item in st.session_state.cart.values())
-    cart_total = sum(item["product"]["selling_price"] * item["qty"] for item in st.session_state.cart.values())
+with nav_c2:
     if active_mode == "store":
         if cart_count > 0:
             st.markdown(f"""
-                <div style="text-align:right; font-size:0.85rem; padding-top:6px; color:#DFC085;">
-                    🛍️ <b>{cart_count} items</b> (₹{cart_total:,.2f})
+                <div style="text-align:right; padding-top:6px;">
+                    <span style="background:rgba(212,175,55,0.18); border:1px solid #D4AF37; color:#F3E5AB; padding:6px 14px; border-radius:20px; font-size:0.85rem; font-weight:700;">
+                        🛍️ Bag: <b>{cart_count} items</b> (₹{cart_total:,.0f})
+                    </span>
                 </div>
             """, unsafe_allow_html=True)
         else:
             st.markdown("""
-                <div style="text-align:right; font-size:0.85rem; padding-top:6px; color:#94A3B8;">
+                <div style="text-align:right; padding-top:6px; color:#8C9BB0; font-size:0.82rem;">
                     🛍️ Bag: 0 items
                 </div>
             """, unsafe_allow_html=True)
 
-with nav_col3:
+with nav_c3:
     if active_mode == "store":
-        if st.button("🔐 Admin Portal", key="btn_switch_admin", use_container_width=True):
+        if st.button("🔐 Admin ERP", key="btn_switch_admin", use_container_width=True):
             st.query_params["mode"] = "admin"
             st.rerun()
     else:
@@ -325,123 +449,131 @@ with nav_col3:
 # =====================================================================
 
 def render_storefront():
-    # 1. Luxury Brand Header
+    # 1. Editorial Hero Section
     st.markdown("""
-        <div class="brand-hero">
-            <div class="brand-title">ROSELET JEWELS</div>
-            <div class="brand-tagline">Anti-Tarnish & Designer Ornaments • All-India Delivery</div>
-            <div class="trust-badges">
-                <span class="trust-pill">💧 100% Waterproof / Anti-Tarnish</span>
-                <span class="trust-pill">✨ 18K Real Gold PVD Coating</span>
-                <span class="trust-pill">🚚 Free Express Pan-India Shipping</span>
-                <span class="trust-pill">🧾 3% GST Included (HSN 7117)</span>
+        <div class="editorial-hero">
+            <div class="hero-pretitle">18K Anti-Tarnish & Traditional Ornaments</div>
+            <div class="hero-headline">ELEGANCE THAT NEVER FADES</div>
+            <div class="hero-lead">
+                Fine jewelry inspired by traditional Kerala artistry, engineered with 18K real gold PVD coating that never fades, tarnishes, or loses its lustre. Wear daily with pride.
+            </div>
+            <div class="trust-chips-row">
+                <span class="trust-chip">💧 100% Anti-Tarnish PVD</span>
+                <span class="trust-chip">🚚 Free Pan-India Express Delivery</span>
+                <span class="trust-chip">🇮🇳 3% GST Included (HSN 7117)</span>
+                <span class="trust-chip">💬 WhatsApp Concierge (+91 98470 12345)</span>
             </div>
         </div>
     """, unsafe_allow_html=True)
 
-    # 2. Category Filter Pill Bar
+    # 2. Category Pill Filter Bar
     categories = ["All", "Necklaces", "Bangles", "Earrings", "Rings", "Bridal Sets", "Anti-Tarnish"]
-    
-    st.markdown("<p style='font-size:0.85rem; color:#C5A059; margin-bottom:6px; text-transform:uppercase; letter-spacing:0.08em; font-weight:600;'>Browse Collections:</p>", unsafe_allow_html=True)
+    cat_icons = {
+        "All": "✨ All Collections",
+        "Necklaces": "📿 Necklaces",
+        "Bangles": "✨ Bangles",
+        "Earrings": "💎 Earrings",
+        "Rings": "💍 Rings",
+        "Bridal Sets": "👑 Bridal Sets",
+        "Anti-Tarnish": "💧 Anti-Tarnish"
+    }
+
+    st.markdown("<p style='font-size:0.85rem; color:#D4AF37; margin-bottom:8px; text-transform:uppercase; letter-spacing:0.12em; font-weight:700;'>CURATED COLLECTIONS:</p>", unsafe_allow_html=True)
     cat_cols = st.columns(len(categories))
     for i, cat in enumerate(categories):
         with cat_cols[i]:
             is_active = (st.session_state.selected_category == cat)
-            btn_label = f"✨ {cat}" if is_active else cat
-            if st.button(btn_label, key=f"cat_{cat}", use_container_width=True, type="primary" if is_active else "secondary"):
+            label = cat_icons.get(cat, cat)
+            if st.button(label, key=f"cat_{cat}", use_container_width=True, type="primary" if is_active else "secondary"):
                 st.session_state.selected_category = cat
                 st.rerun()
 
-    st.markdown("<div style='height:12px;'></div>", unsafe_allow_html=True)
+    st.markdown("<div style='height:16px;'></div>", unsafe_allow_html=True)
 
-    # 3. Main Two-Column Layout: Catalog & Shopping Bag Drawer
-    col_catalog, col_drawer = st.columns([7, 5])
+    # 3. Product Catalog Grid (Full-Width Grand Showcase: 3 Columns)
+    products = get_products(category=st.session_state.selected_category, active_only=True)
 
-    with col_catalog:
-        products = get_products(category=st.session_state.selected_category, active_only=True)
-        if not products:
-            st.info("No jewelry pieces currently available in this category. Check back soon!")
-        else:
-            # Grid of 2 items per row on mobile/desktop
-            p_cols = st.columns(2)
-            for idx, p in enumerate(products):
-                col_idx = idx % 2
-                with p_cols[col_idx]:
-                    stock_qty = p.get("stock_qty", 0)
-                    is_low_stock = (0 < stock_qty <= 3)
-                    is_out_of_stock = (stock_qty <= 0)
+    if not products:
+        st.info("No jewelry pieces currently available in this collection.")
+    else:
+        # Render 3 items per row for expansive desktop & tablet view
+        num_cols = 3
+        cols = st.columns(num_cols)
 
-                    # Card Container
-                    with st.container():
-                        st.markdown(f"""
-                            <div class="product-card">
-                                <div style="position:relative; width:100%;">
-                                    <div class="product-badge">
-                                        {'💧 Anti-Tarnish' if p.get('category') in ['Anti-Tarnish', 'Necklaces', 'Rings'] else '✨ Premium Finish'}
-                                    </div>
-                                    <img src="{p.get('image_url')}" 
-                                         style="width:100%; height:200px; object-fit:cover; border-radius:10px; border:1px solid rgba(197,160,89,0.2);"
-                                         onerror="this.src='https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80';" />
+        for idx, p in enumerate(products):
+            col_target = cols[idx % num_cols]
+            with col_target:
+                stock_qty = p.get("stock_qty", 0)
+                is_low_stock = (0 < stock_qty <= 3)
+                is_out_of_stock = (stock_qty <= 0)
+                mrp_val = float(p.get("mrp", 0.0))
+                sell_val = float(p.get("selling_price", 0.0))
+                disc_pct = int(round((1.0 - sell_val / mrp_val) * 100)) if mrp_val > sell_val else 0
+
+                with st.container():
+                    st.markdown(f"""
+                        <div class="luxury-card">
+                            <div class="card-img-wrapper">
+                                <div class="floating-badge">
+                                    {'💧 18K Anti-Tarnish' if p.get('category') in ['Anti-Tarnish', 'Necklaces', 'Rings'] else '👑 Temple Classic'}
                                 </div>
-                                <div class="product-title">{p.get('name')}</div>
-                                <div style="font-size:0.75rem; color:#94A3B8; margin-bottom:4px;">SKU: {p.get('sku')}</div>
-                                <div style="display:flex; align-items:baseline; margin-bottom:6px;">
-                                    <span class="price-mrp">₹{p.get('mrp', 0):,.0f}</span>
-                                    <span class="price-selling">₹{p.get('selling_price', 0):,.0f}</span>
-                                </div>
-                                <span class="gst-tag">Includes 3% GST (HSN 7117)</span>
-                                <div style="margin-top:6px; font-size:0.72rem; color:{'#EF4444' if is_out_of_stock else ('#F59E0B' if is_low_stock else '#10B981')}; font-weight:600;">
-                                    {'❌ Out of Stock' if is_out_of_stock else (f'⚠️ Only {stock_qty} left in stock!' if is_low_stock else '✅ In Stock - Ready to Dispatch')}
-                                </div>
+                                <img src="{p.get('image_url')}" class="card-img" 
+                                     onerror="this.src='https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80';" />
                             </div>
-                        """, unsafe_allow_html=True)
+                            <div class="card-title">{p.get('name')}</div>
+                            <div class="card-sku">SKU: {p.get('sku')} • {p.get('category')}</div>
+                            <div class="card-pricing-row">
+                                <span class="card-selling-price">₹{sell_val:,.0f}</span>
+                                <span class="card-mrp">₹{mrp_val:,.0f}</span>
+                                {f'<span class="card-discount-tag">{disc_pct}% OFF</span>' if disc_pct > 0 else ''}
+                            </div>
+                            <span class="card-gst-text">Inclusive of 3% GST (HSN 7117)</span>
+                            <div style="font-size:0.75rem; color:{'#EF4444' if is_out_of_stock else ('#F59E0B' if is_low_stock else '#10B981')}; font-weight:700; margin-bottom:10px;">
+                                {'❌ Out of Stock' if is_out_of_stock else (f'⚠️ Only {stock_qty} pieces left!' if is_low_stock else '✅ In Stock • Ready to Dispatch')}
+                            </div>
+                        </div>
+                    """, unsafe_allow_html=True)
 
-                        pid = p["id"]
-                        if not is_out_of_stock:
-                            cur_qty = st.session_state.cart.get(pid, {}).get("qty", 0)
-                            if cur_qty == 0:
-                                if st.button(f"🛍️ Add to Bag (₹{p['selling_price']:,.0f})", key=f"add_{pid}", use_container_width=True):
-                                    st.session_state.cart[pid] = {"product": p, "qty": 1}
-                                    st.rerun()
-                            else:
-                                q_c1, q_c2, q_c3 = st.columns([1, 2, 1])
-                                with q_c1:
-                                    if st.button("➖", key=f"dec_{pid}", use_container_width=True):
-                                        if cur_qty > 1:
-                                            st.session_state.cart[pid]["qty"] -= 1
-                                        else:
-                                            del st.session_state.cart[pid]
-                                        st.rerun()
-                                with q_c2:
-                                    st.markdown(f"<div style='text-align:center; padding:6px; font-weight:700; color:#DFC085;'>{cur_qty} in Bag</div>", unsafe_allow_html=True)
-                                with q_c3:
-                                    if st.button("➕", key=f"inc_{pid}", use_container_width=True):
-                                        if cur_qty < stock_qty:
-                                            st.session_state.cart[pid]["qty"] += 1
-                                            st.rerun()
-                                        else:
-                                            st.toast(f"Only {stock_qty} units available!", icon="⚠️")
+                    pid = p["id"]
+                    if not is_out_of_stock:
+                        cur_qty = st.session_state.cart.get(pid, {}).get("qty", 0)
+                        if cur_qty == 0:
+                            if st.button(f"✨ Add to Bag (₹{sell_val:,.0f})", key=f"add_{pid}", use_container_width=True, type="primary"):
+                                st.session_state.cart[pid] = {"product": p, "qty": 1}
+                                st.rerun()
                         else:
-                            st.button("Sold Out", key=f"sold_{pid}", disabled=True, use_container_width=True)
+                            b_c1, b_c2, b_c3 = st.columns([1, 2, 1])
+                            with b_c1:
+                                if st.button("➖", key=f"dec_{pid}", use_container_width=True):
+                                    if cur_qty > 1:
+                                        st.session_state.cart[pid]["qty"] -= 1
+                                    else:
+                                        del st.session_state.cart[pid]
+                                    st.rerun()
+                            with b_c2:
+                                st.markdown(f"<div style='text-align:center; padding:6px; font-weight:700; color:#DFC085;'>{cur_qty} in Bag</div>", unsafe_allow_html=True)
+                            with b_c3:
+                                if st.button("➕", key=f"inc_{pid}", use_container_width=True):
+                                    if cur_qty < stock_qty:
+                                        st.session_state.cart[pid]["qty"] += 1
+                                        st.rerun()
+                                    else:
+                                        st.toast(f"Only {stock_qty} pieces available in inventory!", icon="⚠️")
+                    else:
+                        st.button("Sold Out", key=f"sold_{pid}", disabled=True, use_container_width=True)
 
-    # 4. Shopping Bag Drawer & WhatsApp Checkout
-    with col_drawer:
-        st.markdown("<div class='cart-summary-box'>", unsafe_allow_html=True)
-        st.markdown("<h3 style='color:#C5A059; margin-top:0;'>🛍️ Your Shopping Bag</h3>", unsafe_allow_html=True)
+    # 4. Shopping Bag & WhatsApp Checkout Section
+    if st.session_state.cart:
+        st.markdown("<div style='height:28px;'></div>", unsafe_allow_html=True)
+        st.markdown("<div class='bag-container-box'>", unsafe_allow_html=True)
+        
+        bag_col1, bag_col2 = st.columns([6, 6])
 
-        if not st.session_state.cart:
-            st.markdown("""
-                <div style="text-align:center; padding:30px 10px; color:#94A3B8;">
-                    <div style="font-size:2.5rem; margin-bottom:10px;">✨</div>
-                    <p style="margin:0; font-size:0.95rem;">Your bag is currently empty.</p>
-                    <p style="font-size:0.8rem; color:#64748B;">Select gorgeous waterproof ornaments from the collection to begin.</p>
-                </div>
-            """, unsafe_allow_html=True)
-            st.markdown("</div>", unsafe_allow_html=True)
-        else:
-            # Bag Items List
-            bag_gross = 0.0
-            order_items_payload = []
+        bag_gross = 0.0
+        order_items_payload = []
+
+        with bag_col1:
+            st.markdown("<h3 style='color:#D4AF37; margin-top:0;'>🛍️ Your Selected Ornaments</h3>", unsafe_allow_html=True)
 
             for pid, item in list(st.session_state.cart.items()):
                 prod = item["product"]
@@ -459,36 +591,42 @@ def render_storefront():
                 })
 
                 st.markdown(f"""
-                    <div style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid rgba(255,255,255,0.08); padding:8px 0; font-size:0.88rem;">
-                        <div>
-                            <b>{prod['name'][:28]}</b><br/>
-                            <span style="font-size:0.75rem; color:#94A3B8;">₹{prod['selling_price']:,.0f} × {qty}</span>
+                    <div style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid rgba(212,175,55,0.15); padding:10px 0;">
+                        <div style="display:flex; gap:12px; align-items:center;">
+                            <img src="{prod.get('image_url')}" style="width:50px; height:50px; object-fit:cover; border-radius:8px; border:1px solid rgba(212,175,55,0.3);" />
+                            <div>
+                                <b style="font-size:0.92rem; color:#FFFFFF;">{prod['name']}</b><br/>
+                                <span style="font-size:0.75rem; color:#94A3B8;">SKU: {prod['sku']} • ₹{prod['selling_price']:,.0f} × {qty}</span>
+                            </div>
                         </div>
-                        <div style="font-weight:700; color:#DFC085;">
+                        <div style="font-weight:700; color:#D4AF37; font-size:1.05rem;">
                             ₹{item_total:,.2f}
                         </div>
                     </div>
                 """, unsafe_allow_html=True)
 
-            st.markdown("<div style='height:12px;'></div>", unsafe_allow_html=True)
+            # Clear cart button
+            if st.button("🗑️ Empty Shopping Bag", key="btn_empty_bag"):
+                st.session_state.cart = {}
+                st.rerun()
 
-            # Customer Checkout Form
-            st.markdown("<h4 style='color:#DFC085; margin-bottom:8px; font-size:1rem;'>📍 Delivery Details</h4>", unsafe_allow_html=True)
+        with bag_col2:
+            st.markdown("<h3 style='color:#D4AF37; margin-top:0;'>📍 Delivery & WhatsApp Order</h3>", unsafe_allow_html=True)
 
-            with st.form("checkout_form"):
+            with st.form("checkout_form_enhanced"):
                 cust_name = st.text_input("Full Name*", placeholder="e.g., Ananya Nair")
                 cust_phone = st.text_input("WhatsApp Mobile Number* (10 digits)", placeholder="e.g., 9847012345")
                 cust_address = st.text_area("Complete Delivery Address*", placeholder="House / Flat No., Landmark, Area")
                 
-                c_c1, c_c2 = st.columns(2)
-                with c_c1:
+                ck_c1, ck_c2 = st.columns(2)
+                with ck_c1:
                     cust_city = st.text_input("City / District*", value="Kochi")
-                with c_c2:
+                with ck_c2:
                     cust_pincode = st.text_input("PIN Code*", placeholder="e.g., 682036")
 
                 cust_state = st.selectbox("State / Union Territory*", INDIAN_STATES, index=0)
 
-                # Live Tax Math (3% GST inclusive)
+                # 3% GST calculation
                 is_kerala = (cust_state.strip().lower() == "kerala")
                 taxable_subtotal = round(bag_gross / 1.03, 2)
                 total_gst = round(bag_gross - taxable_subtotal, 2)
@@ -502,48 +640,47 @@ def render_storefront():
                     sgst = 0.0
                     igst = total_gst
 
-                shipping_charge = 0.0 # Free pan-India delivery
+                shipping_charge = 0.0
                 net_total = bag_gross
 
                 st.markdown(f"""
-                    <div style="background:rgba(10,25,49,0.6); padding:10px; border-radius:8px; font-size:0.82rem; margin:10px 0; border:1px solid rgba(197,160,89,0.2);">
-                        <div style="display:flex; justify-content:space-between; margin-bottom:3px;">
+                    <div style="background:rgba(7,14,26,0.7); padding:14px; border-radius:12px; font-size:0.85rem; margin:12px 0; border:1px solid rgba(212,175,55,0.3);">
+                        <div style="display:flex; justify-content:space-between; margin-bottom:4px;">
                             <span>Taxable Value:</span>
                             <span>₹{taxable_subtotal:,.2f}</span>
                         </div>
-                        {f'''<div style="display:flex; justify-content:space-between; margin-bottom:3px;">
+                        {f'''<div style="display:flex; justify-content:space-between; margin-bottom:4px;">
                             <span>CGST (1.5%):</span>
                             <span>₹{cgst:,.2f}</span>
                         </div>
-                        <div style="display:flex; justify-content:space-between; margin-bottom:3px;">
+                        <div style="display:flex; justify-content:space-between; margin-bottom:4px;">
                             <span>SGST (1.5%):</span>
                             <span>₹{sgst:,.2f}</span>
-                        </div>''' if is_kerala else f'''<div style="display:flex; justify-content:space-between; margin-bottom:3px;">
+                        </div>''' if is_kerala else f'''<div style="display:flex; justify-content:space-between; margin-bottom:4px;">
                             <span>IGST (3.0%):</span>
                             <span>₹{igst:,.2f}</span>
                         </div>'''}
-                        <div style="display:flex; justify-content:space-between; margin-bottom:3px; color:#10B981;">
+                        <div style="display:flex; justify-content:space-between; margin-bottom:4px; color:#10B981; font-weight:700;">
                             <span>Express Shipping:</span>
-                            <span><b>FREE (Pan-India)</b></span>
+                            <span>FREE (All-India)</span>
                         </div>
-                        <div style="display:flex; justify-content:space-between; font-weight:700; font-size:1rem; color:#DFC085; border-top:1px solid rgba(255,255,255,0.1); padding-top:6px; margin-top:4px;">
-                            <span>Total Payable:</span>
+                        <div style="display:flex; justify-content:space-between; font-weight:800; font-size:1.15rem; color:#D4AF37; border-top:1px solid rgba(212,175,55,0.3); padding-top:8px; margin-top:6px;">
+                            <span>Net Total Payable:</span>
                             <span>₹{net_total:,.2f}</span>
                         </div>
                     </div>
                 """, unsafe_allow_html=True)
 
-                submit_btn = st.form_submit_button("💬 Confirm & Order on WhatsApp", use_container_width=True, type="primary")
+                submit_order = st.form_submit_button("💬 Confirm & Transmit Order via WhatsApp", use_container_width=True, type="primary")
 
-                if submit_btn:
+                if submit_order:
                     if not cust_name.strip() or not cust_phone.strip() or not cust_address.strip() or not cust_pincode.strip():
-                        st.error("Please fill in all required fields (Name, Phone, Address, PIN Code).")
+                        st.error("Please fill in Name, WhatsApp Number, Address, and PIN Code.")
                     else:
                         clean_phone = cust_phone.strip().replace(" ", "").replace("-", "")
                         if len(clean_phone) < 10:
                             st.error("Please enter a valid 10-digit mobile number.")
                         else:
-                            # 1. Upsert Customer Profile
                             cid = upsert_customer(
                                 phone=clean_phone,
                                 full_name=cust_name.strip(),
@@ -554,10 +691,8 @@ def render_storefront():
                                 source="Storefront"
                             )
 
-                            # 2. Sequential Order Number
                             order_no = get_next_order_no()
 
-                            # 3. Create Order & Deduct Stock
                             order_dict = {
                                 "order_no": order_no,
                                 "customer_id": cid,
@@ -574,7 +709,6 @@ def render_storefront():
                             }
                             saved_order = create_order(order_dict)
 
-                            # 4. Generate WhatsApp Click-to-Chat Message
                             items_summary_lines = []
                             for it in order_items_payload:
                                 items_summary_lines.append(f"• {it['name']} (Qty: {it['qty']}) - ₹{it['price']*it['qty']:,.0f}")
@@ -606,29 +740,44 @@ def render_storefront():
                                 "cust_name": cust_name
                             }
 
-                            # Clear cart upon successful order registration
                             st.session_state.cart = {}
                             st.rerun()
 
-            # Render celebratory success box if order just placed
-            if st.session_state.last_order:
-                lo = st.session_state.last_order
-                st.markdown(f"""
-                    <div style="background:rgba(16, 185, 129, 0.15); border:1px solid #10B981; border-radius:10px; padding:16px; margin-top:16px; text-align:center;">
-                        <h4 style="color:#10B981; margin:0 0 6px 0;">🎉 Order Placed: {lo['order_no']}!</h4>
-                        <p style="font-size:0.85rem; color:#E2E8F0; margin-bottom:12px;">
-                            Thank you, <b>{lo['cust_name']}</b>! Total: <b>₹{lo['net_total']:,.2f}</b>.<br/>
-                            Click below to transmit your order directly to our concierge team on WhatsApp:
-                        </p>
-                        <a href="{lo['wa_url']}" target="_blank" style="text-decoration:none;">
-                            <div style="background:#25D366; color:#FFFFFF; font-weight:700; padding:12px 18px; border-radius:8px; display:inline-block; font-size:0.95rem; box-shadow:0 4px 12px rgba(37,211,102,0.3);">
-                                📲 Send Order on WhatsApp Now
-                            </div>
-                        </a>
-                    </div>
-                """, unsafe_allow_html=True)
+        # Success message with WhatsApp button
+        if st.session_state.last_order:
+            lo = st.session_state.last_order
+            st.markdown(f"""
+                <div style="background:rgba(16, 185, 129, 0.15); border:1px solid #10B981; border-radius:14px; padding:20px; margin-top:20px; text-align:center;">
+                    <h3 style="color:#10B981; margin:0 0 8px 0;">🎉 Order Registered: {lo['order_no']}!</h3>
+                    <p style="font-size:0.95rem; color:#E2E8F0; margin-bottom:14px;">
+                        Thank you, <b>{lo['cust_name']}</b>! Total Payable: <b>₹{lo['net_total']:,.2f}</b>.<br/>
+                        Click below to transmit your order details directly to our Kerala concierge team:
+                    </p>
+                    <a href="{lo['wa_url']}" target="_blank" style="text-decoration:none;">
+                        <div style="background:#25D366; color:#FFFFFF; font-weight:800; padding:14px 28px; border-radius:30px; display:inline-block; font-size:1.05rem; box-shadow:0 6px 20px rgba(37,211,102,0.4); text-transform:uppercase; letter-spacing:0.06em;">
+                            📲 Transmit Order on WhatsApp Now
+                        </div>
+                    </a>
+                </div>
+            """, unsafe_allow_html=True)
 
-            st.markdown("</div>", unsafe_allow_html=True)
+        st.markdown("</div>", unsafe_allow_html=True)
+
+    # 5. Brand Guarantee & Kerala Heritage Footer
+    st.markdown("""
+        <div style="margin-top:48px; padding:32px 20px; border-top:1px solid rgba(212,175,55,0.2); text-align:center; background:rgba(7,14,26,0.6); border-radius:16px;">
+            <div style="font-family:'Cinzel', serif; font-size:1.15rem; color:#D4AF37; margin-bottom:8px; font-weight:700;">
+                ROSELET JEWELS • KERALA
+            </div>
+            <p style="font-size:0.82rem; color:#94A3B8; max-width:640px; margin:0 auto 16px auto; line-height:1.6;">
+                100% Genuine 18K Anti-Tarnish & Traditional Ornaments. Tested against moisture, sweat, and perfumes. Compliant with Indian GST Standards under HSN 7117.
+            </p>
+            <div style="font-size:0.75rem; color:#64748B;">
+                Registered Office: Roselet Tower, M.G. Road, Ernakulam, Kerala - 682016 • WhatsApp: +91 98470 12345
+            </div>
+        </div>
+    """, unsafe_allow_html=True)
+
 
 
 # =====================================================================
