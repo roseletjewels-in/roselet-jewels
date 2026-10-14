@@ -1,0 +1,1748 @@
+Gemini
+About Gemini
+Get Gemini App
+Subscriptions
+For Business
+Sign in
+Starting an Imitation Jewelry Brand
+https://share.gemini.google/DM4NHapG7dia
+Created with 3.5 Flash-Lite October 14, 2026 at 02:38 PM
+Published October 14, 2026 at 04:13 PM
+You said Planning to start a brand selling ornements not gold or silver in kerala based all india delivery
+
+Planning to start a brand selling ornements not gold or silver in kerala based all india delivery
+
+Launching Roselet Jwells in the fashion and imitation jewelry (demi-fine/anti-tarnish) space from Kerala with pan-India delivery is a high-margin, scalable e-commerce opportunity. Before going live, here is a strategic roadmap covering your branding, operations, and logistics.   
+PNG
+
+1. Logo & Brand Identity Audit
+
+Visual Appeal: The deep navy-blue circle paired with crisp white typography, the star inside the "o", and the four interlocked "R" monogram give off a clean, modern, and boutique aesthetic. It will look great as an Instagram profile picture and on packaging stickers.   
+PNG
+
+Critical Spelling Check ("Jwells" vs. "Jewels"): The logo currently spells the sub-brand as "Jwells".   
+PNG
+
+If unintentional: Fix it to "Jewels" immediately before printing packaging or registering domains. Customers searching on Google or Instagram will naturally type "Roselet Jewels", and a typo can inadvertently lower brand trust in the jewelry sector.
+
+If intentional (for numerology or trademark availability): Ensure you still buy the domain and social handles for the standard spelling (roseletjewels) and redirect them to your main page so you don't lose organic traffic.
+
+2. Product Positioning & Sourcing (Non-Gold/Silver)
+
+To succeed across India—especially given Kerala's humid coastal climate—your material selection will make or break repeat customer rates:
+
+Category	Best Target Audience	Key Selling Point	Major Sourcing Hubs
+316L Stainless Steel (18k PVD Plated)	Daily office wear, college students, pan-India	100% Anti-tarnish, waterproof, sweat-proof, hypoallergenic	Mumbai (Zaveri Bazaar), Surat, or direct import (Yiwu/Guangzhou)
+Kerala Traditional & Temple Imitation	Brides, festive wear (Onam, Vishu, weddings)	Micro-gold plated copper/brass alloys; high visual similarity to real gold	Thrissur, Kochi, Coimbatore, Machilipatnam
+AD (American Diamond) & Kundan	North & South Indian party/reception wear	High-sparkle rhodium or rose-gold plating on brass	Jaipur (Kundan/Meenakari), Mumbai, Kolkata
+
+Actionable Tip: Lead your marketing with "Anti-Tarnish & Waterproof" stainless steel jewelry. It has the lowest return rate, highest daily-wear demand across Tier-1 to Tier-3 Indian cities, and solves the biggest pain point of imitation jewelry turning black.
+
+3. Compliance & Financial Setup (Important for Pan-India)
+
+Selling physical goods across state borders (from Kerala to the rest of India) carries specific regulatory requirements:
+
+Compulsory GST Registration: Under Indian GST law, even if your turnover is under the ₹20 Lakh / ₹40 Lakh threshold, inter-state e-commerce supply of goods requires mandatory Regular GST registration from Day 1 (Composition Scheme dealers cannot sell inter-state).
+
+HSN Code & Tax Rate: Imitation jewelry falls under HSN Code 7117, which attracts a 3% GST rate (1.5% CGST + 1.5% SGST within Kerala; 3% IGST for outside Kerala).
+
+MSME (Udyam) & Trademark: Register for Udyam (free) to get a 50% rebate on government trademark filing fees (reducing the Class 14 trademark fee from ₹9,000 to ₹4,500). Class 14 covers jewelry and imitation ornaments.
+
+4. E-Commerce & Pan-India Logistics Stack
+
+Instead of managing manual WhatsApp orders for too long, set up an automated storefront early:
+
+Storefront & Payments:
+
+Platform: Shopify (most reliable for Meta Ad pixel tracking) or WooCommerce.
+
+Payment Gateway: Razorpay, Cashfree, or PhonePe PG (ensure instant UPI intent flow is enabled, as 75%+ of prepaid Indian fashion orders happen via UPI).
+
+Shipping Aggregators (All-India Delivery):
+
+Sign up with Shiprocket, Pickrr, or NimbusPost. They integrate directly with your website and let you compare courier rates per pin code.
+
+Best Couriers by Region: Use Delhivery or BlueDart for Metro/North India; DTDC or India Post (Speed Post) for deep Tier-3/rural Kerala and remote pin codes.
+
+Controlling the RTO (Return to Origin) Menace:
+
+Cash on Delivery (COD) in fashion jewelry often sees a 25% to 35% RTO rate (customers refusing parcels at the doorstep).
+
+Mitigation: Charge a flat ₹50–₹70 extra for COD while keeping Prepaid shipping free, and use automated WhatsApp OTP/confirmation tools (like GoKwik or Interakt) to verify COD orders before dispatching.
+
+5. Packaging & Unit Economics
+
+Imitation jewelry is lightweight (almost always under 500 grams, placing you in the cheapest shipping slab of ₹45–₹75 per shipment pan-India).
+
+Damage-Proof Packaging: Ship inside rigid 3-ply corrugated boxes (approx. 4x4x2 inches) rather than soft poly-mailers to prevent bent earring posts during transit.
+
+Inside the Box: Include a zip-lock anti-tarnish pouch (keeps moisture out), a thank-you/care instruction card, and an alcohol wipe pad for hygiene.
+
+Pricing Formula: Aim for a 3x to 4x markup on landed product cost to comfortably absorb Meta (Instagram/Facebook) Customer Acquisition Costs (CAC), packaging, payment gateway fees (2%), and shipping.
+
+Are you planning to focus more on modern anti-tarnish daily wear (stainless steel) or traditional South Indian/bridal imitation designs, and would you like a breakdown of the initial startup budget and supplier sourcing channels?
+
+You said Roselet jewells
+
+Roselet jewells
+
+Adding the "e" to make it Roselet Jewells (as opposed to Jwells in the current logo) is a big improvement—it reads naturally while the double "ll" gives it a distinctive, stylized edge.   
+PNG
+
+Here is how "Roselet Jewells" stacks up against the standard "Roselet Jewels", and what you need to lock down right away:
+
+Aspect	Roselet Jewells (Double 'L')	Roselet Jewels (Single 'L' - Standard)
+Visual Balance	Looks symmetrical and boutique beneath the 7-letter word "Roselet".	Clean, classic, and immediately recognizable.
+Trademark & Handle Availability	Easier to get an exact match on Instagram (@roseletjewells) and .com domains.	More likely to have close variations already taken, though it is the most natural spelling.
+Search & Word-of-Mouth	Customers hearing the name will naturally type roselet jewels (single 'l') into Google or Instagram.	100% match with how people spell and search.
+3 Immediate Action Steps for "Roselet Jewells"
+
+Update the Logo Artwork:
+
+Have your designer update J w e l l s to J E W E L L S (or J e w e l l s) with wide letter-spacing (kerning) so it aligns neatly from the 'o' to the 'e' of Roselet above it.   
+PNG
++ 1
+
+Secure Both Domains (Cost: ~₹1,600/year total):
+
+Buy roseletjewells.com as your primary website.
+
+Also buy roseletjewels.com (single 'L') and set up a permanent 301 redirect to your primary site. That way, even if a customer spells it the standard way, they still land on your store instead of a dead page or a competitor's site.
+
+Lock Down Social Handles Today:
+
+Register @roseletjewells and @roselet.jewells on Instagram, Facebook, and YouTube before announcing the brand publicly. In your Instagram bio Name field, write: Roselet Jewells | Anti-Tarnish Jewellery (putting both spellings/keywords in the bio makes sure you show up no matter how someone searches).
+
+Would you like me to generate an updated version of your logo image with "Jewells" (or "Jewels") so you can compare how both look?
+
+You said Check domain availability
+
+Check domain availability
+
+All primary domain variations for Roselet Jewells currently have zero indexed websites, active storefronts, or existing brand footprints on Google.
+
+Here is the status breakdown across the key extensions:
+
+Domain Name	Web Index Status	Recommended Usage	Estimated Cost
+roseletjewells.com	Available (No active site)	Primary Storefront (matches your preferred double-'L' spelling)	~₹850 – ₹1,100 / yr
+roseletjewels.com	Available (No active site)	Defensive Redirect (catches customers who type a single 'L')	~₹850 – ₹1,100 / yr
+roseletjewells.in	Available (No active site)	India Regional Redirect (protects your brand name inside India)	~₹499 – ₹699 / yr
+roseletjwells.com	Available (No active site)	
+
+Optional (matches the original logo spelling) 
+PNG
+
+	~₹850 – ₹1,100 / yr
+Important Note Before You Search on Registrars
+
+Avoid checking availability on third-party "free WHOIS" tools or GoDaddy without buying immediately: Some domain brokers monitor search queries and buy up searched .com names to resell them at a premium.
+
+Best Registrars to Buy Directly: Log directly into Cloudflare Registrar (sells domains at wholesale registry cost with zero markup and free WHOIS privacy), Porkbun, or Hostinger India (accepts Indian UPI/cards easily), and add roseletjewells.com and roseletjewels.com straight to your cart.
+
+Brand Conflict Check (India)
+
+There is no existing jewelry brand operating under "Roselet Jewells" or "Roselet Jewels" in India. (The only minor mention of "Roselet" in Indian jewelry is a single product line called "Sonnets of Love - Roselet Necklace" sold by a resin floral brand called Leafy Affair, which does not conflict with a brand name like Roselet Jewells).
+
+Once you lock down the domains, would you like to map out your Shopify vs. WooCommerce setup or the DNS and business email configuration (e.g., care@roseletjewells.com)?
+
+You said Roseletjewells.com Is available
+
+Roseletjewells.com Is available
+
+roseletjewells.com is completely unregistered and available right now.
+
+Since .com domains are grabbed on a first-come, first-served basis, here is a quick 15-minute checklist to lock in your digital footprint cleanly today:
+
+Register the Primary & Backup Domains Immediately
+
+Add roseletjewells.com to your cart and check out right away.
+
+Pro Tip: Grab roseletjewels.com (single 'l') in the exact same checkout for an extra ~₹900/year. In your DNS settings, set up a simple URL Forwarding rule ([roseletjewels.com/](https://roseletjewels.com/)* 
+→
+→ [https://roseletjewells.com/$1](https://roseletjewells.com/$1), 301 Permanent Redirect) so you never lose a customer who types the standard spelling of "jewels."
+
+Ensure WHOIS Privacy Protection is toggled ON (free on Cloudflare, Porkbun, Namecheap, and Hostinger) so your personal phone number and email don't get flooded by spam calls from web agencies.
+
+Claim Matching Social Media Handles Today
+
+Even if you aren't posting for a few weeks, register these accounts immediately using a dedicated Gmail (roseletjewells@gmail.com) so no one else takes them:
+
+Instagram & Threads: @roseletjewells
+
+Facebook Page: Roselet Jewells
+
+YouTube Shorts / Pinterest: @roseletjewells
+
+Set Up Professional Domain Email & Authentication
+
+Once the domain is registered, create at least two aliases: care@roseletjewells.com (for order tracking, returns, and customer support) and admin@roseletjewells.com (for your Shopify/Razorpay/Shiprocket dashboards).
+
+Configure your MX, SPF, DKIM, and DMARC records on Day 1 (via Zoho Mail's free/lite tier or Google Workspace) so automated order-confirmation and shipping emails land straight in your customers' Primary inbox rather than Spam.
+
+Would you like to build a Shopify store, a WooCommerce store, or a custom web storefront for the site?
+
+You said Need a web site with admin pannel and accounts billling currently no payment integration need also i…
+
+Need a web site with admin pannel and accounts billling currently no payment integration need also if any chats from instagram or Facebook to integrate with same platform backend customer view from web site and order via whatapp
+
+To run Roselet Jewells with a catalog website, an admin panel, accounting/GST billing, WhatsApp checkout (no payment gateway), and a unified inbox for Instagram, Facebook, and WhatsApp chats, here are the three best ways to set up the architecture—ranging from ready-made to a custom zero-monthly-fee stack.
+
+1. Compare Your 3 Best Setup Options
+Feature / Requirement	Option A: WooCommerce + Zoho / Chatwoot (Best Balance & Low Cost)	Option B: Custom Python (FastAPI/Flask) + SQL Backend (100% Ownership & Custom Accounting)	Option C: Shopify + Interakt / Wati (Fastest No-Code, Higher Monthly Fee)
+Customer Website	WordPress + WooCommerce Catalog	Custom HTML/Tailwind storefront	Shopify Theme
+Order via WhatsApp (No Payment Gateway)	"Order on WhatsApp" plugin (logs order in backend + opens WhatsApp with pre-filled Order ID & items)	Custom checkout endpoint: saves order to DB first, then redirects to wa.me with full order summary	WhatsApp Checkout App (disables online checkout, routes cart to WhatsApp)
+Admin Panel & Accounts Billing	WooCommerce Admin + PDF Invoices & Packing Slips (or free Zoho Books sync for proper double-entry GST billing)	Built-in custom Admin Dashboard: Stock ledger, Purchase/Sales register, GST Invoice PDF generator, Expense tracker	Shopify Admin + GST Invoice App (basic billing, not full accounting)
+Unified Chat (IG + FB + WhatsApp)	Chatwoot (Open-source/Free cloud tier) or Meta Business Suite embedded/linked	Chatwoot or Meta Graph/Webhook API wired directly into a tab inside your custom Admin Panel	Interakt, Wati, or Zoko (Paid: ~₹2,000–₹3,500/mo)
+Fixed Monthly Cost	~₹250–₹400/mo (Shared/VPS Hosting only)	~₹350–₹500/mo (Cloud VPS for DB & Web App)	~₹4,000+/mo (Shopify + WhatsApp/Omnichannel CRM apps)
+2. How the Workflow Operates (Step-by-Step)
+
+Regardless of whether you use WooCommerce (Option A) or a Custom Web App (Option B), here is how the exact flow you described should be wired so you never lose track of stock or customer data:
+
+Step 1: Customer Browses & Clicks "Order via WhatsApp"
+
+The customer selects items (e.g., Rose Gold Anti-Tarnish Bangle - SKU: RJ-104) and enters their Name, Mobile Number, Delivery Address, and Pin Code in a lightweight checkout pop-up.
+
+No payment gateway is triggered.
+
+Crucial Backend Step: Before opening WhatsApp, the website immediately saves a "Pending Order (#RJ-1001)" into your Admin Database and creates/updates the Customer Profile.
+
+The customer is then automatically redirected to WhatsApp with a pre-filled message:
+
+"Hi Roselet Jewells! I'd like to place Order #RJ-1001:
+1x Rose Gold Bangle (₹499)
+Shipping to: Kochi, 682001. Please share the UPI QR / payment link to confirm."
+
+Step 2: Unified Chat Management (Instagram + Facebook + WhatsApp)
+
+Instead of jumping between three different apps on a phone, connect your channels to a single Omnichannel Inbox:
+
+Zero-Cost Route (Meta Business Suite): Connects your Facebook Page and Instagram DM natively for free. However, it doesn't merge deeply with your website database.
+
+Pro Route (Chatwoot — Free/Open-Source): You can connect your Facebook Page, Instagram Business Account, Website Live Chat widget, and WhatsApp Business Cloud API into one single dashboard.
+
+When a customer messages you on Instagram asking "Is this necklace in stock?" or messages on WhatsApp about an order, your admin sees all chats in one screen alongside the customer's past orders from your website.
+
+Step 3: Admin Panel & Accounts/Billing Module
+
+Once the customer pays via manual UPI (GPay/PhonePe QR) inside the chat or confirms Cash on Delivery:
+
+You click "Confirm & Convert to Invoice" in your Admin Panel.
+
+Inventory Deduction: Stock for SKU RJ-104 automatically reduces by 1.
+
+Accounts & GST Billing:
+
+Generates a compliant Tax Invoice PDF (with HSN 7117, 3% GST split into CGST/SGST for Kerala pin codes or IGST for outside Kerala).
+
+Posts the entry to your Sales Ledger, updates Cash/Bank (UPI) or COD Receivable, and tracks Courier/Packaging Expenses so you can see real net profit per order.
+
+One-click sends the PDF Invoice back to the customer on WhatsApp.
+
+3. Recommended Blueprint to Build This Now
+
+If you want full control over the Accounts/Billing ledger and Admin Panel without paying hefty monthly SaaS subscriptions, we can build a custom lightweight web application (or set up WooCommerce) with these exact modules:
+
+Public Storefront (roseletjewells.com):
+
+Mobile-first luxury catalog (Categories, Product zoom, Anti-tarnish badges, Cart drawer, and "Checkout via WhatsApp" modal).
+
+Admin & ERP Backend ([roseletjewells.com/admin](https://roseletjewells.com/admin)):
+
+Product & Stock Manager: SKU, purchase cost, selling price, stock alert, and product images.
+
+Customer & Order CRM: Tracks every customer who clicked "Order on WhatsApp" (even if they didn't send the message, allowing you to follow up on abandoned carts).
+
+Accounting & Billing Engine: Purchase entry, Expense entry, GST Sales Invoice generator (PDF), Daybook, and Profit & Loss view.
+
+Unified Inbox Integration: Embedded Chatwoot / Meta Webhook panel to reply to Instagram DMs, Facebook Messenger, and WhatsApp from the same backend.
+
+Which approach do you prefer to start with—setting up WooCommerce for a quick launch, or building a custom Python + SQL web application tailored to your exact accounting and admin layout? (If you prefer the custom build, I can write the database schema and starter application code for you right away.)
+
+You said Cloud based prifer
+
+Cloud based prifer
+
+A 100% Cloud-Based Architecture allows you and your team in Kerala (or anywhere else) to manage inventory, GST billing, and Instagram/Facebook/WhatsApp chats from any browser or mobile phone with zero local server maintenance.
+
+Three cloud architectures can deliver your exact workflow (No Payment Gateway + WhatsApp Order + Full Accounting/Billing + IG/FB Unified Chat):
+
+1. Compare the 3 Cloud Architectures
+Cloud Stack	Cloud Option 1: Managed Cloud WooCommerce + Zoho Books + Chatwoot Cloud (Recommended Ready-Made)	Cloud Option 2: Serverless Custom Cloud App (Supabase + Vercel/Render) (Recommended Custom Build)	Cloud Option 3: Zoho Cloud Ecosystem (Zoho Commerce + Zoho Books + Zoho SalesIQ)
+Cloud Hosting	Hostinger Cloud / DigitalOcean	Vercel / Render + Supabase Cloud PostgreSQL	Zoho India Cloud Servers
+Customer Storefront	WooCommerce Luxury Jewelry Theme	Custom Fast HTML/Tailwind/React Storefront	Zoho Commerce Storefront
+Checkout (No Payment Gateway)	Logs order in Admin 
+→ Opens WhatsApp with Order ID & Customer details	Saves order in Cloud DB 
+→ Redirects to WhatsApp with itemized summary	"Offline/COD Order" + Custom WhatsApp redirect button
+Accounts & GST Billing	Zoho Books (Free India GST Edition) synced with WooCommerce, or built-in PDF GST Invoicing	Built-in Custom Accounting Module (Sales/Purchase Register, HSN 7117 GST Invoice PDF, Stock Ledger, P&L)	Native Zoho Books & Zoho Inventory automatic sync
+IG + FB + WhatsApp Chat	Chatwoot Cloud (Free Plan) connected to Meta & embedded in Admin	Chatwoot Cloud API / Meta Webhook embedded right inside a tab of your Admin Panel	Zoho SalesIQ / Zoho Bigin (Native IG, FB & WhatsApp inbox)
+Monthly Cloud Cost	~₹150 – ₹250 / mo	₹0 / mo on Free Cloud Tiers (scales to ~₹500/mo at high traffic)	~₹599 – ₹999 / mo (Zoho Commerce Standard Plan)
+2. How the Cloud Workflow Operates
+[Customer on RoseletJewells.com] 
+       │
+       ▼ (Selects Jewelry & Enters Delivery Address)
+[Clicks "Order via WhatsApp"] 
+       │
+       ├──► 1. Auto-creates Customer Profile & "Pending Order #RJ-101" in Cloud Admin Panel
+       │
+       └──► 2. Opens Customer's WhatsApp with pre-filled message to your Business Number
+                  │
+                  ▼
+[Unified Cloud Inbox (Instagram DM + Facebook Messenger + WhatsApp)]
+       │
+       ├──► Admin sees chat + Customer's Website Cart & Order History side-by-side
+       ├──► Admin shares UPI QR / confirms COD in chat
+       │
+       ▼
+[Admin Clicks "Approve & Bill" in Cloud Admin Panel]
+       │
+       ├──► Deducts Item Stock in Cloud Inventory
+       ├──► Posts Accounting Entry (Sales Ledger, CGST/SGST or IGST 3%, Receivables)
+       └──► Generates GST Invoice PDF & sends to Customer on WhatsApp
+
+3. Deep Dive: Choosing Your Best Cloud Path
+Path A: If You Want a Custom-Built Cloud System (Zero SaaS Bloat)
+
+We can deploy a dedicated Cloud Web Application + Admin ERP built specifically for Roselet Jewells hosted on Render/Vercel + Supabase (Cloud PostgreSQL) + Cloudflare R2 (for product photos):
+
+Customer View: Ultra-fast mobile catalog (roseletjewells.com) with category filters (Necklaces, Bangles, Earrings, Anti-Tarnish), cart drawer, and one-click Order via WhatsApp.
+
+Admin & Accounts Panel ([roseletjewells.com/admin](https://roseletjewells.com/admin)):
+
+Customer 360° View: Every visitor who initiates a WhatsApp order is logged with their phone number, Kerala/All-India pin code, and lifetime order value.
+
+Full Accounting & Billing: Purchase bills, packaging/courier expense vouchers, automated GST calculation (3% under HSN 7117), thermal/A4 invoice printing, Daybook, and Trial Balance/P&L.
+
+Embedded Social Inbox: Connect Chatwoot Cloud (free up to 2 agents) to your Facebook Page, Instagram Professional account, and WhatsApp Business number so you reply to every DM and order from one tab.
+
+Path B: If You Want a No-Code Cloud Setup in 48 Hours
+
+Cloud Host: Purchase Hostinger Cloud/Business WordPress (~₹149–₹249/mo) and connect roseletjewells.com.
+
+Storefront & WhatsApp: Install WooCommerce + Order on WhatsApp for WooCommerce (configured to create the order in the backend database before redirecting to WhatsApp, with payment gateways disabled).
+
+Cloud Accounting: Connect Zoho Books (Free GST Plan for businesses under ₹1.5 Cr turnover) or a WooCommerce GST Billing plugin to generate invoices and track accounts.
+
+Unified IG/FB/WA Chat: Sign up at app.chatwoot.com (Cloud version), link your Facebook Page, Instagram, and WhatsApp, and install the Chatwoot plugin so customer website details appear right next to their chats.
+
+Would you like to go with Path A (Custom Cloud Web App with built-in Accounts & Admin Panel)—where I can generate the complete cloud database schema and application code for you to deploy—or Path B (Cloud WooCommerce + Zoho + Chatwoot) with a step-by-step configuration guide?
+
+You said WHAT WILL BE CORRECT SPELL
+
+WHAT WILL BE CORRECT SPELL
+
+The standard, grammatically correct spelling is Roselet Jewels (with one "e" and one "l").
+
+Here is the comparison of all the spelling variations so you can make a final decision before registering your domain and printing packaging:
+
+Spelling Variation	Status	Verdict & Impact on Your Brand
+Roselet Jewels	100% Correct	Recommended. Clean, luxury look. When customers hear your brand name, this is the exact spelling they will type into Google, Instagram, and WhatsApp.
+Roselet Jewellery	100% Correct (UK/India)	Also completely correct (standard Indian/British English), though a bit longer to fit neatly inside a circular logo.
+Roselet Jewells	Stylized (Double 'L')	Not standard dictionary English, though some brands use an extra "L" for numerology or trademark uniqueness. Risk: people searching for you will still type single "L" (Jewels).
+Roselet Jwells	Incorrect (Missing 'e' & extra 'l')	
+
+This is what is currently in your blue logo image. Looks like a printing mistake and can reduce customer trust when buying online. 
+PNG
+
+Final Recommendation
+
+Change the logo text to: Roselet Jewels (change J w e l l s 
+→
+→ J e w e l s).   
+PNG
+
+Primary Domain to buy: roseletjewels.com (it is also available right now).
+
+Instagram Handle: @roseletjewels (or @roseletjewels.in).
+
+Would you like to move forward with Roselet Jewels as your official brand name and start setting up the cloud website for it?
+
+You said CHECK HOW CAN I WORK AND WHAT SHOULD SETUP NEEDED NOW ONLY HAVE IDEA, I PRIFER Cloud Option 2: Serv…
+
+CHECK HOW CAN I WORK AND WHAT SHOULD SETUP NEEDED NOW ONLY HAVE IDEA, I PRIFER Cloud Option 2: Serverless Custom Cloud App (Supabase + Vercel/Render) IS WE CAN USE ANY LIBRERY TO GET STECTURED LIKE STREAMLIT
+
+You can definitely use a Streamlit-style pure Python approach for Cloud Option 2 (Supabase + Render/Vercel), where you write only Python code and the library automatically generates the web UI, tables, forms, and charts—without writing complex React or JavaScript.
+
+However, there is one critical catch with standard Streamlit: it is fantastic for your Admin Panel & Accounts/Billing ERP, but it feels a bit clunky for a public Customer Jewelry Catalog (slow loading on mobile and no Google SEO).
+
+Below is the breakdown of the best Python libraries that give you a Streamlit-like structured coding experience while supporting a fast mobile storefront, followed by your exact step-by-step cloud setup.
+
+1. Best "Streamlit-Style" Python Libraries for Your Cloud App
+Python Framework	How You Write Code	Customer Storefront Quality	Admin & Accounting ERP Quality	Verdict for Roselet Jewels
+1. NiceGUI (pip install nicegui)	100% Python (ui.card(), ui.table(), ui.button())—very similar to Streamlit	High (Uses Tailwind & Quasar Material Design under the hood; looks like a real app)	Excellent (Built on FastAPI; instant button clicks without full-page reloads)	Best All-in-One Pure Python Choice
+2. Reflex (pip install reflex)	100% Python, compiles automatically into a Next.js / React app	Very High (Real e-commerce look & mobile responsiveness)	Very High (Built-in state management, tables, and auth)	Best if you want a React storefront written in Python
+3. FastAPI (HTML Store) + Streamlit (Admin ERP)	Lightweight HTML template for customers + 100% Streamlit for Admin & Billing	Fastest (Loads in <1 second on mobile data in India)	100% Native Streamlit (st.dataframe, st.metric, st.form)	Easiest & Most Practical Hybrid
+Why Option 3 (Hybrid) or Option 1 (NiceGUI) is Ideal:
+
+If you love Streamlit explicitly: Use Streamlit for your Admin, Inventory, and GST Billing Dashboard (admin.roseletjewels.com), and pair it with a lightweight FastAPI/FastHTML single-file catalog (roseletjewels.com) connected to the exact same Supabase database.
+
+If you want ONE single Python library for both: Use NiceGUI (nicegui.io). You write simple Python just like Streamlit (ui.image(), ui.button(), ui.table()), and it supports multi-page routing (/ for your public jewelry catalog and /admin for your private accounting & chat backend).
+
+2. How the Cloud System Works Together
+               ┌──────────────────────────────────────────┐
+               │       SUPABASE CLOUD (Free Tier)         │
+               │  • PostgreSQL DB (Products, Orders,      │
+               │    Customers, Accounting Ledger)         │
+               │  • Storage Bucket (Jewelry Photos)       │
+               └───────────────┬──────────────────────────┘
+                               │ (Python supabase-py)
+         ┌─────────────────────┴─────────────────────┐
+         ▼                                           ▼
+┌─────────────────────────────────┐       ┌─────────────────────────────────┐
+│  CUSTOMER VIEW (Public)         │       │  ADMIN & ACCOUNTS PANEL         │
+│  roseletjewels.com              │       │  (Streamlit or NiceGUI /admin)  │
+│  • Browse Rings, Bangles, etc.  │       │  • View Pending WhatsApp Orders │
+│  • Add to Cart (No Payment GW)  │       │  • 1-Click Confirm & Deduct Stk │
+│  • Enter Name, Phone, Pin Code  │       │  • Generate GST Invoice PDF     │
+│  • Saves Order to Supabase DB   │       │  • Sales/Purchase/Expense Ledger│
+│  • Opens WhatsApp with Order ID │       │  • Embedded Chatwoot Inbox      │
+└─────────────────────────────────┘       │    (IG + FB + WhatsApp Chats)   │
+                                          └─────────────────────────────────┘
+
+3. What You Need to Set Up Today (Step-by-Step)
+
+Since you are currently at the idea stage, you can set up the entire cloud infrastructure for ₹0/month (only paying ~₹900/year when you buy the domain):
+
+Step 1: Create 4 Free Cloud Accounts (Takes 15 Minutes)
+
+GitHub (github.com): Create a private repository named roselet-jewels-cloud. Every time you update your Python code here, your live cloud website will update automatically.
+
+Supabase (supabase.com): Sign up for the Free Tier and create a project called Roselet-ERP (choose the Mumbai ap-south-1 server region for fast loading across Kerala and India).
+
+Copy your SUPABASE_URL and SUPABASE_KEY.
+
+Create a public Storage Bucket named product-images to host your jewelry photos.
+
+Render (render.com) or Streamlit Community Cloud: Sign up using your GitHub account. This will host and run your Python app 24/7 in the cloud.
+
+Chatwoot Cloud (app.chatwoot.com): Sign up for the Free Hacker Plan. Connect your Instagram Business page, Facebook Page, and WhatsApp Business so all customer DMs arrive in one cloud inbox.
+
+Step 2: Copy-Paste This Database Schema into Supabase
+
+Open your Supabase Dashboard 
+→
+→ SQL Editor and run this script to create your e-commerce, CRM, and accounting tables in one click:
+
+SQL
+-- 1. Products & Inventory Table
+CREATE TABLE products (
+    id SERIAL PRIMARY KEY,
+    sku VARCHAR(50) UNIQUE NOT NULL,
+    name VARCHAR(200) NOT NULL,
+    category VARCHAR(100),
+    purchase_cost NUMERIC(10,2) DEFAULT 0,
+    selling_price NUMERIC(10,2) NOT NULL,
+    stock_qty INT DEFAULT 0,
+    image_url TEXT,
+    is_active BOOLEAN DEFAULT TRUE,
+    created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 2. Customers CRM Table (Captures Website & Social Leads)
+CREATE TABLE customers (
+    id SERIAL PRIMARY KEY,
+    phone VARCHAR(20) UNIQUE NOT NULL,
+    full_name VARCHAR(150) NOT NULL,
+    address TEXT,
+    city VARCHAR(100),
+    state VARCHAR(100) DEFAULT 'Kerala',
+    pincode VARCHAR(10),
+    source VARCHAR(50) DEFAULT 'Website', -- Website, Instagram, Facebook, WhatsApp
+    created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 3. Orders & GST Billing Table
+CREATE TABLE orders (
+    id SERIAL PRIMARY KEY,
+    order_no VARCHAR(50) UNIQUE NOT NULL, -- e.g. RJ-1001
+    customer_id INT REFERENCES customers(id),
+    items_json JSONB NOT NULL,            -- Stores SKU, Qty, Price
+    subtotal NUMERIC(10,2) NOT NULL,
+    cgst NUMERIC(10,2) DEFAULT 0,         -- 1.5% for Kerala
+    sgst NUMERIC(10,2) DEFAULT 0,         -- 1.5% for Kerala
+    igst NUMERIC(10,2) DEFAULT 0,         -- 3.0% outside Kerala
+    shipping_charge NUMERIC(10,2) DEFAULT 0,
+    net_total NUMERIC(10,2) NOT NULL,
+    order_status VARCHAR(30) DEFAULT 'WhatsApp_Pending', -- WhatsApp_Pending, Confirmed, Shipped, Cancelled
+    payment_mode VARCHAR(30) DEFAULT 'Unpaid',           -- UPI, Bank, COD
+    tracking_no VARCHAR(100),
+    created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 4. Accounts Ledger (Double/Single Entry Daybook for Sales, Purchases, Expenses)
+CREATE TABLE accounting_ledger (
+    id SERIAL PRIMARY KEY,
+    txn_date DATE DEFAULT CURRENT_DATE,
+    voucher_type VARCHAR(50) NOT NULL, -- Sales, Purchase, Expense, Receipt
+    account_head VARCHAR(100) NOT NULL, -- e.g., Sales A/c, Packaging Expense, Courier Charges, UPI Bank
+    reference_no VARCHAR(50),          -- Links to Order No or Bill No
+    debit NUMERIC(10,2) DEFAULT 0,
+    credit NUMERIC(10,2) DEFAULT 0,
+    narration TEXT,
+    created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+Step 3: How the Python Code Looks (Streamlit-Style Example)
+
+Here is how clean your Streamlit Admin & Customer Prototype (app.py) looks when connected to Supabase. You can run this locally or deploy it straight to the cloud:
+
+Python
+import urllib.parse
+import streamlit as st
+from supabase import create_client
+
+# 1. Connect to Supabase Cloud
+SUPABASE_URL = st.secrets["SUPABASE_URL"]
+SUPABASE_KEY = st.secrets["SUPABASE_KEY"]
+supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+
+BUSINESS_WHATSAPP = "919876543210"  # Replace with your Kerala WhatsApp Business No
+
+st.set_page_config(page_title="Roselet Jewels", layout="wide")
+
+# Sidebar switcher (In production, split into public route & password-protected admin)
+mode = st.sidebar.radio(
+    "View Mode", ["🛍️ Customer Storefront", "🔐 Admin & Accounts Panel"]
+)
+
+# ==========================================
+# VIEW 1: CUSTOMER STOREFRONT (NO PAYMENT GW)
+# ==========================================
+if mode == "🛍️ Customer Storefront":
+    st.title("✨ Roselet Jewels")
+    st.caption("Premium Anti-Tarnish & Imitation Ornaments | All-India Delivery")
+
+    if "cart" not in st.session_state:
+        st.session_state.cart = []
+
+    # Fetch active products from Cloud DB
+    products = (
+        supabase.table("products")
+        .select("*")
+        .eq("is_active", True)
+        .gt("stock_qty", 0)
+        .execute()
+        .data
+    )
+
+    cols = st.columns(3)
+    for idx, item in enumerate(products):
+        with cols[idx % 3]:
+            with st.container(border=True):
+                if item.get("image_url"):
+                    st.image(item["image_url"], use_container_width=True)
+                st.subheader(item["name"])
+                st.write(
+                    f"**₹{item['selling_price']}**  |  SKU: `{item['sku']}`"
+                )
+                if st.button("Add to Bag", key=f"add_{item['id']}"):
+                    st.session_state.cart.append(item)
+                    st.toast(f"Added {item['name']} to bag!")
+
+    # Checkout Drawer / Form -> Saves to DB & Redirects to WhatsApp
+    st.divider()
+    st.subheader(f"🛒 Your Bag ({len(st.session_state.cart)} items)")
+    if st.session_state.cart:
+        subtotal = sum( float(i["selling_price"]) for i in st.session_state.cart )
+        st.write(f"**Total Payable: ₹{subtotal:.2f}** (Inclusive of 3% GST)")
+
+        with st.form("whatsapp_checkout"):
+            name = st.text_input("Full Name *")
+            phone = st.text_input("WhatsApp Mobile Number *")
+            address = st.text_area("Full Delivery Address *")
+            col1, col2 = st.columns(2)
+            state = col1.selectbox(
+                "State",
+                ["Kerala", "Tamil Nadu", "Karnataka", "Maharashtra", "Other"],
+            )
+            pincode = col2.text_input("PIN Code *")
+            submit = st.form_submit_button("✅ Place Order via WhatsApp")
+
+            if submit and name and phone and pincode:
+                # 1. Upsert Customer in Cloud DB
+                cust = (
+                    supabase.table("customers")
+                    .upsert(
+                        {
+                            "phone": phone,
+                            "full_name": name,
+                            "address": address,
+                            "state": state,
+                            "pincode": pincode,
+                        },
+                        on_conflict="phone",
+                    )
+                    .execute()
+                    .data[0]
+                )
+
+                # 2. Calculate GST (3% HSN 7117 included in price)
+                tax_amt = round(subtotal - (subtotal / 1.03), 2)
+                cgst = round(tax_amt / 2, 2) if state == "Kerala" else 0
+                sgst = round(tax_amt / 2, 2) if state == "Kerala" else 0
+                igst = tax_amt if state != "Kerala" else 0
+
+                # 3. Create Pending Order in DB
+                order_no = f"RJ-{1000 + cust['id']}"
+                supabase.table("orders").insert({
+                    "order_no": order_no,
+                    "customer_id": cust["id"],
+                    "items_json": st.session_state.cart,
+                    "subtotal": subtotal,
+                    "cgst": cgst,
+                    "sgst": sgst,
+                    "igst": igst,
+                    "net_total": subtotal,
+                }).execute()
+
+                # 4. Generate WhatsApp Link
+                item_lines = ", ".join(
+                    [
+                        f"{i['name']} ({i['sku']})"
+                        for i in st.session_state.cart
+                    ]
+                )
+                msg = (
+                    f"Hi Roselet Jewels! I want to confirm Order *{order_no}*\n"
+                    f"Items: {item_lines}\n"
+                    f"Total: ₹{subtotal}\n"
+                    f"Delivery: {name}, {state} - {pincode}"
+                )
+                wa_url = f"https://wa.me/{BUSINESS_WHATSAPP}?text={urllib.parse.quote(msg)}"
+
+                st.success(f"Order {order_no} saved! Click below to send on WhatsApp:")
+                st.link_button("📲 Send Order on WhatsApp Now", wa_url)
+
+# ==========================================
+# VIEW 2: ADMIN, ACCOUNTS & UNIFIED INBOX
+# ==========================================
+elif mode == "🔐 Admin & Accounts Panel":
+    st.title("📊 Roselet Jewels — Cloud Admin & ERP")
+    tab1, tab2, tab3, tab4 = st.tabs([
+        "📦 Orders & GST Billing",
+        "💍 Inventory Manager",
+        "📒 Accounts Ledger",
+        "💬 IG / FB / WhatsApp Inbox",
+    ])
+
+    with tab1:
+        orders = (
+            supabase.table("orders")
+            .select("*, customers(full_name, phone, state, pincode)")
+            .order("id", desc=True)
+            .execute()
+            .data
+        )
+        st.dataframe(orders, use_container_width=True)
+
+    with tab4:
+        st.info("Unified Instagram, Facebook & WhatsApp Inbox (Powered by Chatwoot Cloud)")
+        st.components.v1.iframe("https://app.chatwoot.com", height=650, scrolling=True)
+
+4. How You Can Start Working on This Today
+
+You don't need any inventory or company registration yet to build and test the software:
+
+Install Python locally (or open VS Code / Google Antigravity) and run:
+pip install streamlit supabase fpdf2
+
+Create your free Supabase project, run the 4-table SQL script above, and paste your keys into .streamlit/secrets.toml.
+
+Test the full loop: Add 2 sample jewelry items in the Admin tab, switch to the Customer tab, place a test order, watch it open your WhatsApp with the Order ID, and see it appear in your Cloud Admin database.
+
+Would you like me to write the complete Admin Inventory + PDF GST Invoice Generator + Accounting Daybook module in Streamlit next so you have the full working codebase ready to test?
+
+You said OK GET ME THE PROMT FOR ANTIGRAVITY AI
+
+OK GET ME THE PROMT FOR ANTIGRAVITY AI
+
+Copy and paste the master prompt below directly into Google Antigravity (in Agent / Composer mode) inside an empty project folder. It is structured so the agent will scaffold the entire Supabase SQL setup, Cloud Storefront, Admin ERP, GST Invoice PDF generator, Accounting Daybook, and Chatwoot Omnichannel Inbox in one run.
+
+Copy-Paste Master Prompt for Google Antigravity
+Markdown
+# Project: Roselet Jewels — Cloud E-Commerce Storefront, Admin ERP, GST Billing & Omnichannel CRM
+
+## 1. Role & Objective
+Act as a Principal Full-Stack Python Architect. Build a complete, production-ready, cloud-based web application for **"Roselet Jewels"** (a Kerala-based imitation & anti-tarnish jewelry brand delivering across India).
+
+Use **Streamlit** (multi-page or tabbed architecture with clean custom CSS matching a deep navy-blue `#0A1931` and gold/white luxury theme) backed by **Supabase (Cloud PostgreSQL + Supabase Storage)** and **fpdf2** for GST tax invoice PDF generation.
+
+---
+
+## 2. Core Business Logic & Requirements
+
+1. **Public Customer Storefront (No Payment Gateway — Order via WhatsApp):**
+   - Clean mobile-responsive jewelry catalog with Category filters (`All`, `Necklaces`, `Earrings`, `Bangles`, `Rings`, `Bridal Sets`, `Anti-Tarnish Daily Wear`) and search.
+   - Product cards displaying Product Image, Name, SKU, Anti-Tarnish badge, MRP (strikethrough), and Selling Price (inclusive of 3% GST).
+   - Session-based Shopping Bag (Add/Remove items, adjust quantities).
+   - **Checkout Flow (No Online Payment Gateway):**
+     - Customer enters: `Full Name`, `WhatsApp Mobile Number (10 digits)`, `Delivery Address`, `City`, `State` (Dropdown of all Indian states, default `Kerala`), and `PIN Code`.
+     - **Backend Action BEFORE Redirect:**
+       1. Upsert the customer into the `customers` table in Supabase (keyed by `phone`).
+       2. Calculate 3% GST (HSN Code `7117` — Imitation Jewellery):
+          - Taxable Value = `Subtotal / 1.03`
+          - If `State == 'Kerala'`: split tax equally into `1.5% CGST` + `1.5% SGST` (`IGST = 0`).
+          - If `State != 'Kerala'`: `3.0% IGST` (`CGST = 0`, `SGST = 0`).
+       3. Insert the order into the `orders` table with status `'WhatsApp_Pending'` and generate a sequential order number (`RJ-1001`, `RJ-1002`, etc.).
+       4. Generate a pre-filled WhatsApp click-to-chat URL (`https://wa.me/<BUSINESS_WHATSAPP>?text=...`) containing the Order ID, itemized SKU list, Net Payable amount, and Delivery PIN code, and present a prominent **"Send Order on WhatsApp"** button.
+
+2. **Password-Protected Admin Panel & ERP:**
+   - Secure login using `ADMIN_PASSWORD` from `.streamlit/secrets.toml`.
+   - **Module A: Inventory & Product Manager:**
+     - Add/Edit/Toggle active status of products (`sku`, `name`, `category`, `purchase_cost`, `mrp`, `selling_price`, `stock_qty`).
+     - Image uploader that uploads jewelry images directly to the Supabase Storage bucket `product-images` and saves the public URL.
+     - Low-stock alert indicator (`stock_qty <= 3`).
+   - **Module B: Order Processing & Automated Stock/Ledger Posting:**
+     - Filter orders by status (`WhatsApp_Pending`, `Confirmed_Billed`, `Shipped`, `Delivered`, `Cancelled_RTO`).
+     - **"Confirm & Convert to GST Invoice" Action:**
+       - Admin selects `Payment Mode` (`UPI / GPay`, `Bank Transfer`, `COD`) and optional `Shipping Charge`.
+       - Automatically deducts ordered quantities from `products.stock_qty`.
+       - Automatically posts double-entry accounting rows into `accounting_ledger`:
+         - Debit: `UPI / Bank A/c` (or `COD Receivable A/c`) for `net_total`
+         - Credit: `Sales A/c (HSN 7117)` for `taxable_value`
+         - Credit: `Output CGST A/c`, `Output SGST A/c`, or `Output IGST A/c` for the tax amounts.
+     - **Courier & Tracking Updater:** Input `Courier Partner` (Delhivery, DTDC, Speed Post, BlueDart) and `AWB Tracking Number`, plus a 1-click button to send a pre-filled WhatsApp shipping update link to the customer.
+   - **Module C: Compliant GST Invoice PDF Generator (`fpdf2`):**
+     - Generate a downloadable A4/A5 PDF Invoice for any confirmed order showing:
+       - Brand Header: **ROSELET JEWELS** (Kerala, India | GSTIN placeholder | Support WhatsApp).
+       - Customer Billing/Shipping details, State, Place of Supply, Invoice No, and Date.
+       - Itemized table: `SI`, `Item & SKU`, `HSN (7117)`, `Qty`, `Rate`, `Taxable Value`, `CGST/SGST or IGST`, `Total`.
+       - Amount in words and Authorized Signatory footer.
+   - **Module D: Accounts & Finance Engine:**
+     - **Expense & Purchase Voucher Form:** Record stock purchases, packaging box purchases, Meta Ad spend, and courier charges into `accounting_ledger`.
+     - **Reports:** Daybook, Sales Register (exportable to CSV for GST GSTR-1 filing with intra-state vs. inter-state breakup), and a live **Profit & Loss Summary** (Revenue vs. COGS vs. Expenses).
+   - **Module E: Customer 360° CRM & Omnichannel Inbox (IG + FB + WhatsApp):**
+     - Customer directory showing lifetime orders, total spend, state/city, and source (`Website`, `Instagram`, `Facebook`, `WhatsApp`).
+     - Quick "Manual Social Order" form to log orders taken directly over Instagram DM or Facebook Messenger.
+     - Embedded `st.components.v1.iframe` loading the **Chatwoot Cloud Dashboard** (configurable URL in secrets) so the admin can reply to Instagram DMs, Facebook Messenger, and WhatsApp chats from inside the same backend.
+
+---
+
+## 3. Exact File Structure to Generate
+
+Generate all of the following files completely with zero placeholders or `TODO` comments:
+
+```text
+roselet-jewels-cloud/
+├── .streamlit/
+│   ├── config.toml          # Deep Navy (#0A1931) & Luxury Cream/White theme config
+│   └── secrets.toml.example # Template for SUPABASE_URL, SUPABASE_KEY, ADMIN_PASSWORD, BUSINESS_WHATSAPP, CHATWOOT_URL
+├── database/
+│   └── schema.sql           # Complete Supabase PostgreSQL schema + indexes + sample seed products
+├── utils/
+│   ├── db.py                # Supabase client wrapper, CRUD functions, atomic stock & ledger posting
+│   ├── gst_invoice.py       # fpdf2 PDF Invoice generator returning bytes for st.download_button
+│   └── whatsapp.py          # URL encoder for Order Confirmation & Shipping Tracking WhatsApp messages
+├── app.py                   # Main entry point (Public Storefront + Sidebar/Query-param Admin Login router)
+├── requirements.txt         # streamlit, supabase, fpdf2, pandas, pillow
+└── render.yaml              # One-click deployment blueprint for Render.com cloud hosting
+
+4. Implementation Rules
+
+Write clean, modular, error-handled Python code.
+
+Include a "Demo / Local Fallback Mode" in utils/db.py using SQLite (local_roselet.db) if SUPABASE_URL is not yet configured in .streamlit/secrets.toml, so the app runs immediately out-of-the-box with streamlit run app.py for local testing before connecting to Supabase Cloud.
+
+After generating all files, initialize the local database with 6 realistic sample jewelry products (e.g., 18k PVD Anti-Tarnish Rose Gold Bracelet, Kerala Temple Layer Necklace, AD Stud Earrings) and run the app to verify there are no syntax or runtime errors.
+
+
+---
+
+### How to Run This in Antigravity Right Now
+
+1. **Create a new folder** on your PC named `roselet-jewels-cloud` and open it inside **Google Antigravity**.
+2. **Paste the prompt above** into the Agent panel and hit Enter.
+3. Because of the **SQLite fallback instruction** at the bottom of the prompt, Antigravity will build the entire app, seed it with 6 sample Kerala & anti-tarnish jewelry products, and start the local server (`http://localhost:8501`) immediately—even before you paste in your Supabase cloud keys.
+4. Once you like how the storefront, WhatsApp checkout, and GST invoice generator work locally, simply paste your **`SUPABASE_URL`** and **`SUPABASE_KEY`** into `.streamlit/secrets.toml` and push to GitHub/Render to take it live on **`roseletjewels.com`**.
+
+You said HOW IT WILL WORK AND WHAT WILL BE FETURES EXPLAIN AS COMMON MAN LANGUAGE
+
+HOW IT WILL WORK AND WHAT WILL BE FETURES EXPLAIN AS COMMON MAN LANGUAGE
+
+Think of this cloud app as having two doors inside one building:
+
+The Front Door (Public Website): Where your customers walk in, look at your jewelry showcase, put items in a shopping bag, and place an order.
+
+The Back Office Door (Password-Protected Admin Panel): Where only you (or your staff) can log in to manage stock, generate GST bills, check accounts/profits, and reply to Instagram, Facebook, and WhatsApp chats.
+
+Because it is Cloud-Based, nothing is saved on a single office computer. You can open it on your mobile phone or laptop from anywhere, and your staff in Kerala can open it at the same time—everyone sees the exact same live data.
+
+1. How a Customer Buys From You (Step-by-Step in Plain English)
+
+Browsing the Showcase:
+A customer clicks your link (roseletjewels.com) from your Instagram bio or WhatsApp status. They see a neat catalog of your jewelry (Necklaces, Bangles, Earrings, Anti-Tarnish wear) with photos and prices.
+
+Adding to the Shopping Bag:
+They tap "Add to Bag" on a ₹499 Rose Gold Bangle and a ₹299 pair of Earrings.
+
+Entering Their Delivery Address (No Card/UPI Needed Here):
+They type their Name, Mobile Number, House Address, State, and PIN Code, and click "Place Order via WhatsApp".
+
+The Behind-the-Scenes Magic:
+In the split second before their WhatsApp opens:
+
+Your system automatically saves their name, phone number, and address into your permanent customer book.
+
+It creates an Order Number (like RJ-1001) in your Admin Panel so you never lose track of who wanted what.
+
+The WhatsApp Handshake:
+The customer's WhatsApp automatically pops open with a ready-made message to your business number:
+
+"Hi Roselet Jewels, I want to confirm Order #RJ-1001 (Rose Gold Bangle + Earrings, Total: ₹798) to Kochi, PIN 682001."
+All they have to do is hit Send.
+
+2. How You Process the Order & Bill Them (Your Daily Routine)
+
+You Get the Message & Take Payment:
+You see their message, send them your GPay/PhonePe QR code (or confirm Cash on Delivery), and they send you the payment screenshot on WhatsApp.
+
+One-Click "Confirm & Bill" in Your Admin Panel:
+You open your Admin screen, find Order RJ-1001, and click one button: "Confirm Order".
+
+Stock Updates Automatically: If you had 10 bangles in stock, the system automatically changes it to 9. If it hits 0, the website automatically hides it or marks it "Out of Stock" so nobody else can accidentally order it.
+
+Accounts Update Automatically: You don't have to type the sale twice. The system automatically writes ₹798 into your Sales & Bank book and calculates the 3% GST (splitting it into CGST/SGST if the customer is in Kerala, or IGST if they are outside Kerala).
+
+Ready-Made PDF Bill: You click "Download Invoice", and it gives you a clean, professional PDF bill to send back to the customer on WhatsApp and print for your parcel box.
+
+Shipping Update:
+When you hand the box to DTDC, Delhivery, or Speed Post, you paste the tracking number into the order and click "Send Tracking on WhatsApp". It sends the customer a polite message with their tracking details.
+
+3. All the Features You Get Inside Your Admin Panel
+Feature Name	What It Actually Does for You in Plain Language
+1. Digital Stock Register (Inventory)	Upload photos of a new ornament from your phone, enter your buying price (e.g., ₹150) and selling price (e.g., ₹499), and type how many pieces you have. It warns you when any design drops below 3 pieces so you can reorder in time.
+2. All-in-One Chat Box (IG + FB + WhatsApp)	Instead of switching between the Instagram app, Facebook app, and WhatsApp all day, a single screen inside your Admin Panel shows all messages from all three platforms in one place.
+3. Direct Social Order Entry	If a customer is lazy and doesn't use your website—they just send a screenshot on Instagram DM saying "Send me this necklace"—you can quickly type their order into your Admin Panel in 10 seconds so your stock and bill still stay 100% accurate.
+4. Automatic GST & Tax Calculator	You just enter your final selling price (say ₹500). The system automatically calculates the 3% jewelry tax in the background and prepares a clean Excel/CSV sheet at the end of the month to hand over for GST filing.
+5. Expense & Profit Tracker (Accounts)	Whenever you spend money on stock purchases, packing boxes, bubble wrap, courier charges, or Instagram ads, you enter it here. At any moment, the screen shows you: Total Sales – Total Product Cost – Total Expenses = Your Real Net Profit in Hand.
+6. Customer Phonebook (CRM)	Keeps a permanent list of every person who ever ordered or even tried to order from you. Before Onam, Vishu, or Eid, you can filter your best repeat buyers and send them your new festive collection on WhatsApp.
+4. Why Building It This Way Saves You Money & Headaches
+
+Zero Monthly Software Rent: Platforms like Shopify + WhatsApp plugins charge ₹3,000 to ₹5,000 every single month even if you have zero sales in your first month. This custom cloud setup runs on free cloud tiers while you are starting out.
+
+No Payment Gateway Hold-Ups: Payment gateways (like Razorpay) ask for current bank accounts, physical office verification, and take 2% commission plus 2–3 days to settle your money. With Order via WhatsApp, the customer pays straight to your UPI QR code—the money hits your bank account in 1 second with 0% fee.
+
+Test It Today Without Buying Anything: When you paste that prompt into Google Antigravity, it creates a working demo right on your laptop with 6 sample jewelry items so you can click around, place a fake order, and print a test bill today before spending a single rupee.
+
+You said GET MRE THIS A DOCUMENT TO PRESENT FOR MY PARTNERS WITH VISULA EXAMPLE
+
+GET MRE THIS A DOCUMENT TO PRESENT FOR MY PARTNERS WITH VISULA EXAMPLE
+
+BUSINESS PROPOSAL & SYSTEM ARCHITECTURE
+
+Project Name: Roselet Jewels — Cloud E-Commerce, ERP & Omnichannel CRM
+
+Base of Operations: Kerala, India | Delivery Scope: All-India (Pan-India)
+
+Product Category: Non-Precious, Anti-Tarnish & Imitation Ornaments (HSN 7117)
+
+1. Executive Summary
+
+Roselet Jewels is a modern Direct-to-Consumer (D2C) fashion jewelry brand operating from Kerala with pan-India shipping. Instead of paying heavy monthly subscription fees to third-party platforms (like Shopify) or losing 2%–3% commission to payment gateways during the initial launch phase, we are deploying a 100% Cloud-Based Custom Web Storefront & Back-Office ERP.
+
+This system combines four business operations into one cloud platform accessible from any mobile phone or laptop:
+
+Public Online Jewelry Catalog (Customer Storefront)
+
+Direct WhatsApp Order Engine (Zero payment gateway commission)
+
+Automated Inventory, Accounting & GST Billing (3% GST Compliance)
+
+Unified Social Media Inbox (Instagram, Facebook & WhatsApp chats in one screen)
+
+2. Visual System Workflow (How an Order Moves)
++-----------------------------------------------------------------------------+
+| STEP 1: CUSTOMER VISITS WEBSITE (RoseletJewels.com)                         |
+| • Clicks link from Instagram Bio, Facebook Ad, or WhatsApp Status           |
+| • Browses categories (Necklaces, Bangles, Earrings, Anti-Tarnish)           |
+| • Adds items to Shopping Bag & enters Name, Mobile, Address & PIN Code      |
++--------------------------------------+--------------------------------------+
+                                       |
+                                       v
++-----------------------------------------------------------------------------+
+| STEP 2: INSTANT CLOUD CAPTURE & WHATSAPP REDIRECT (Behind the Scenes)       |
+| • System saves Customer Profile in Cloud Database automatically             |
+| • Generates Order ID (e.g., #RJ-1001) with status "WhatsApp Pending"        |
+| • Opens Customer's WhatsApp with pre-typed Order Summary to our Business No |
++--------------------------------------+--------------------------------------+
+                                       |
+                                       v
++-----------------------------------------------------------------------------+
+| STEP 3: UNIFIED CHAT & PAYMENT COLLECTION (Zero Gateway Fees)               |
+| • Admin sees the message inside the Unified Inbox (IG + FB + WhatsApp)      |
+| • Shares UPI QR Code (GPay/PhonePe) or confirms Cash on Delivery (COD)      |
+| • Money settles directly into our Bank Account (0% transaction fee)         |
++--------------------------------------+--------------------------------------+
+                                       |
+                                       v
++-----------------------------------------------------------------------------+
+| STEP 4: ONE-CLICK BILLING, STOCK DEDUCTION & DISPATCH (Admin Panel)         |
+| • Admin clicks [Confirm & Bill] on Order #RJ-1001                           |
+|   ├──► 1. Deducts item quantity from Live Cloud Stock automatically         |
+|   ├──► 2. Posts Sale & 3% GST (CGST/SGST or IGST) to Accounts Ledger        |
+|   └──► 3. Generates a PDF GST Invoice to print & send on WhatsApp           |
++-----------------------------------------------------------------------------+
+
+3. Visual Screen Examples (What the Platform Looks Like)
+Visual Example A: What the Customer Sees on Their Mobile Phone
+
+When a customer clicks our website link, they get a fast, luxury shopping experience without needing to create an account or enter credit card details:
+
++-------------------------------------------------------+
+|              ✨ R O S E L E T   J E W E L S           |
+|       Anti-Tarnish & Designer Ornaments | All-India   |
++-------------------------------------------------------+
+| [ All ]  [ Necklaces ]  [ Bangles ]  [ Anti-Tarnish ] |
++-------------------------------------------------------+
+|  +-----------------------+  +-----------------------+ |
+|  |   [ Product Photo ]   |  |   [ Product Photo ]   | |
+|  |  18K PVD Rose Bangle  |  |  Kerala Temple Choker | |
+|  |  SKU: RJ-101          |  |  SKU: RJ-102          | |
+|  |  💧 Waterproof        |  |  ✨ Festive Wear      | |
+|  |  MRP: ~₹799~  ₹499    |  |  MRP: ~₹1299~ ₹899    | |
+|  |  [ + Add to Bag ]     |  |  [ + Add to Bag ]     | |
+|  +-----------------------+  +-----------------------+ |
++-------------------------------------------------------+
+| 🛒 YOUR SHOPPING BAG (2 Items) — Total: ₹1,398        |
+| ----------------------------------------------------- |
+| Full Name:      [ Anjali Nair                       ] |
+| WhatsApp No:    [ 98470XXXXX                        ] |
+| Full Address:   [ Flat 4B, Marine Drive, Kochi      ] |
+| State:          [ Kerala ▼ ]     PIN: [ 682001      ] |
+|                                                       |
+|      [ 📲 PLACE ORDER VIA WHATSAPP (NO EXTRA FEE) ]   |
++-------------------------------------------------------+
+
+Visual Example B: What Partners & Staff See in the Cloud Admin Panel
+
+Only partners and authorized staff can log into this dashboard from their phone or computer to control stock, bills, chats, and accounts:
+
++-----------------------------------------------------------------------------+
+| 🔐 ROSELET JEWELS — CLOUD ADMIN & ERP                        [User: Admin]  |
++-----------------------------------------------------------------------------+
+| [📦 Orders & Billing] [💍 Stock] [📒 Accounts & Profit] [💬 IG/FB/WA Inbox] |
++-----------------------------------------------------------------------------+
+| TODAY'S SALES: ₹12,450  | PENDING ORDERS: 4 | LOW STOCK ITEMS: 2 | NET: ₹6,120|
++-----------------------------------------------------------------------------+
+| RECENT ORDERS QUEUE                                                         |
+| --------------------------------------------------------------------------- |
+| Order ID | Customer       | State      | Items       | Total  | Action      |
+| #RJ-1004 | Anjali (Kochi) | Kerala     | RJ-101, 102 | ₹1,398 | [✅ Confirm]|
+| #RJ-1003 | Priya (Mumbai) | Maharashtra| RJ-108      | ₹699   | [📄 PDF Bill]|
+| #RJ-1002 | Fathima (Clt)  | Kerala     | RJ-105      | ₹499   | [🚚 Track]  |
++-----------------------------------------------------------------------------+
+
+Visual Example C: Auto-Generated GST Tax Invoice (PDF Output)
+
+With one click, the system produces a compliant tax invoice ready to place inside the parcel box and send on WhatsApp:
+
+===============================================================================
+                                TAX INVOICE
+                              ROSELET JEWELS
+                     Kerala, India | All-India Delivery
+                    Web: www.roseletjewels.com | HSN: 7117
+-------------------------------------------------------------------------------
+Invoice No : INV-2026-1004                      Date            : 14-Oct-2026
+Order ID   : #RJ-1004                           Payment Mode    : UPI (Paid)
+Billed To  : Anjali Nair, Kochi, Kerala         Place of Supply : Kerala (32)
+-------------------------------------------------------------------------------
+SI  Item Description (SKU)       HSN    Qty   Taxable   CGST(1.5%) SGST(1.5%) Total
+-------------------------------------------------------------------------------
+1.  18K PVD Rose Bangle (RJ-101) 7117    1    ₹484.46    ₹7.27      ₹7.27    ₹499.00
+2.  Temple Choker (RJ-102)       7117    1    ₹872.82   ₹13.09     ₹13.09    ₹899.00
+-------------------------------------------------------------------------------
+                                 SUBTOTAL : ₹1,357.28   ₹20.36     ₹20.36  ₹1,398.00
+                          SHIPPING CHARGE :                                    ₹0.00
+                          NET AMOUNT PAID :                                ₹1,398.00
+===============================================================================
+*Note: For orders outside Kerala, system automatically switches to 3% IGST.
+
+4. Core Business Modules Explained for Partners
+Module	How It Helps Our Business
+1. Smart Inventory Manager	Tracks exact buying price, selling price, and available quantity for every ornament SKU. Automatically hides out-of-stock items on the website and alerts us when stock drops below 3 units.
+2. All-in-One Chat Inbox (Instagram + Facebook + WhatsApp)	Instead of checking 3 different phones, messages from Instagram DMs, Facebook Page, and WhatsApp appear in one unified cloud screen. We can also punch in direct DM orders manually in 10 seconds.
+3. Automated GST & Tax Engine	Automatically calculates 3% GST included in the retail price (1.5% CGST + 1.5% SGST for Kerala buyers; 3% IGST for rest of India) and exports monthly spreadsheets for easy tax filing.
+4. Real-Time Profit & Expense Ledger	Records all stock purchases, packing box costs, courier bills, and Instagram ad expenses. Partners can view the Live Profit & Loss Statement (Total Sales - Product Cost - Expenses = Net Profit) anytime.
+5. Customer Database (CRM)	Builds a permanent asset of every customer's name, phone number, city, and buying history—even if they abandoned their cart—allowing us to send festive broadcast offers (Onam, Vishu, Eid, Weddings).
+5. Cost Comparison: Traditional Setup vs. Our Cloud Architecture
+Cost Component	Standard Agency / Shopify Setup	Our Custom Cloud Architecture
+Website & ERP Software Fee	₹2,500 – ₹3,500 / month	₹0 / month (In-house Custom Cloud Build)
+Omnichannel Chat CRM Fee	₹2,000 – ₹3,000 / month	₹0 / month (Chatwoot Cloud Free Tier)
+Cloud Database & Server	₹1,000 / month	₹0 / month (Supabase + Render Free Cloud Tiers)
+Payment Gateway Commission	2.0% to 3.0% deducted per order	0% Fee (Direct UPI via WhatsApp Checkout)
+Domain Name (roseletjewels.com)	~₹900 / year	~₹900 / year
+Total Fixed Monthly Software Cost	₹5,500 – ₹7,500 / month	₹0 / month (Scales only when order volume grows)
+6. Immediate Action Plan & Partner Milestones
+
+Phase 1: Brand & Digital Locking (Week 1)
+
+Finalize corrected logo artwork (Roselet Jewels).
+
+Register roseletjewels.com and secure @roseletjewels on Instagram and Facebook.
+
+Phase 2: Cloud Platform Deployment (Week 1–2)
+
+Deploy the custom Cloud Storefront, Admin ERP, and GST Billing software on Supabase & Render.
+
+Link Instagram, Facebook, and Business WhatsApp to the unified inbox.
+
+Phase 3: Sourcing, Packaging & Compliance (Week 2–3)
+
+Complete GST Registration (HSN 7117) and Udyam MSME Registration.
+
+Procure initial stock of Anti-Tarnish (18K PVD Stainless Steel) and Kerala Festive ornaments, along with branded 3-ply shipping boxes.
+
+Phase 4: Catalog Upload & Go-Live (Week 4)
+
+Photograph initial 30–50 SKUs, upload to the Cloud Admin Panel, and launch Instagram Reels & WhatsApp catalog campaigns across India.
+
+You said GET ME AS PDF STRECTURED
+
+GET ME AS PDF STRECTURED
+
+To give you an executive-grade, multi-color PDF with styled mobile/admin mockups and tables that you can email or print for your partners right now, save the single-file code below as partner_proposal.html, double-click it to open in Chrome or Edge, and click the "Download / Save as PDF" button at the top right (or press Ctrl + P 
+→
+→ Save as PDF).
+
+Single-File Printable PDF Proposal (partner_proposal.html)
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roselet Jewels - Partner Business Proposal & Cloud ERP Blueprint</title>
+    <style>
+        :root {
+            --navy: #0A1931;
+            --navy-light: #162B4D;
+            --gold: #C5A059;
+            --gold-light: #F9F4EB;
+            --text: #1F2937;
+            --muted: #6B7280;
+            --border: #E5E7EB;
+            --green: #059669;
+        }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            -webkit-print-color-adjust: exact !important;
+            print-color-adjust: exact !important;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text);
+            background: #525659;
+            line-height: 1.5;
+            font-size: 13px;
+        }
+        /* Print Button Bar */
+        .no-print-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: var(--navy);
+            color: #fff;
+            padding: 12px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 999;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        }
+        .btn-pdf {
+            background: var(--gold);
+            color: var(--navy);
+            border: none;
+            padding: 10px 20px;
+            font-weight: 700;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .btn-pdf:hover { opacity: 0.9; }
+
+        /* A4 Page Container */
+        .page {
+            width: 210mm;
+            min-height: 297mm;
+            background: #fff;
+            margin: 65px auto 25px auto;
+            padding: 16mm 18mm;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.35);
+            position: relative;
+        }
+        .page-break {
+            page-break-before: always;
+        }
+
+        /* Header Banner */
+        .doc-header {
+            background: var(--navy);
+            color: #fff;
+            padding: 24px 28px;
+            border-radius: 8px;
+            border-bottom: 4px solid var(--gold);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .brand-logo-circle {
+            width: 68px;
+            height: 68px;
+            border-radius: 50%;
+            border: 2px solid var(--gold);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: var(--navy-light);
+            text-align: center;
+        }
+        .brand-logo-circle span.r-title {
+            font-family: Georgia, serif;
+            font-size: 15px;
+            font-weight: bold;
+            color: #fff;
+            letter-spacing: 0.5px;
+        }
+        .brand-logo-circle span.r-sub {
+            font-size: 8px;
+            letter-spacing: 2.5px;
+            color: var(--gold);
+            text-transform: uppercase;
+        }
+        .doc-title h1 {
+            font-size: 22px;
+            letter-spacing: 0.5px;
+            color: #fff;
+            margin-bottom: 4px;
+        }
+        .doc-title p {
+            color: #D1D5DB;
+            font-size: 12px;
+        }
+        .meta-pills {
+            display: flex;
+            gap: 10px;
+            margin-top: 8px;
+        }
+        .pill {
+            background: rgba(197, 160, 89, 0.2);
+            border: 1px solid var(--gold);
+            color: #F3F4F6;
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+
+        /* Section Headings */
+        h2.sec-title {
+            font-size: 15px;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--navy);
+            border-left: 4px solid var(--gold);
+            padding-left: 10px;
+            margin: 18px 0 10px 0;
+        }
+        p.lead {
+            color: #374151;
+            margin-bottom: 12px;
+            text-align: justify;
+        }
+
+        /* Workflow Diagram */
+        .workflow-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            margin: 14px 0;
+        }
+        .wf-step {
+            background: var(--gold-light);
+            border: 1px solid #E5D5B5;
+            border-top: 3px solid var(--navy);
+            border-radius: 6px;
+            padding: 10px;
+        }
+        .wf-num {
+            background: var(--navy);
+            color: var(--gold);
+            font-weight: 700;
+            font-size: 11px;
+            padding: 2px 7px;
+            border-radius: 3px;
+            display: inline-block;
+            margin-bottom: 6px;
+        }
+        .wf-step h4 {
+            font-size: 12px;
+            color: var(--navy);
+            margin-bottom: 4px;
+        }
+        .wf-step p {
+            font-size: 11px;
+            color: #4B5563;
+            line-height: 1.35;
+        }
+
+        /* Visual Mockup Containers */
+        .mockup-row {
+            display: grid;
+            grid-template-columns: 1fr 1.35fr;
+            gap: 16px;
+            margin-top: 12px;
+        }
+        .phone-mockup {
+            border: 2px solid var(--navy);
+            border-radius: 14px;
+            overflow: hidden;
+            background: #FAFAFA;
+        }
+        .phone-header {
+            background: var(--navy);
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        .phone-header h3 {
+            font-family: Georgia, serif;
+            font-size: 14px;
+            letter-spacing: 1px;
+        }
+        .phone-header span {
+            font-size: 10px;
+            color: var(--gold);
+        }
+        .p-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            padding: 10px;
+        }
+        .p-card {
+            background: #fff;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 8px;
+            text-align: center;
+        }
+        .p-img {
+            height: 45px;
+            background: var(--gold-light);
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+        .p-card h5 { font-size: 11px; color: var(--navy); }
+        .p-price { font-size: 11px; font-weight: bold; color: var(--green); }
+        .p-btn {
+            background: var(--navy);
+            color: #fff;
+            font-size: 9px;
+            padding: 3px 6px;
+            border-radius: 3px;
+            margin-top: 4px;
+            display: inline-block;
+        }
+        .wa-checkout-box {
+            margin: 0 10px 10px 10px;
+            background: #fff;
+            border: 1px solid #D1D5DB;
+            border-radius: 6px;
+            padding: 8px;
+            font-size: 10px;
+        }
+        .wa-btn-mock {
+            background: #10B981;
+            color: #fff;
+            text-align: center;
+            font-weight: 700;
+            padding: 6px;
+            border-radius: 4px;
+            margin-top: 6px;
+            font-size: 10.5px;
+        }
+
+        /* Admin Mockup */
+        .admin-mockup {
+            border: 2px solid var(--navy);
+            border-radius: 8px;
+            overflow: hidden;
+            background: #fff;
+        }
+        .admin-bar {
+            background: var(--navy);
+            color: #fff;
+            padding: 8px 12px;
+            font-size: 11px;
+            font-weight: 700;
+            display: flex;
+            justify-content: space-between;
+        }
+        .admin-tabs {
+            background: #F3F4F6;
+            padding: 6px 10px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            gap: 6px;
+            font-size: 10px;
+        }
+        .tab-pill {
+            padding: 3px 8px;
+            border-radius: 4px;
+            background: #fff;
+            border: 1px solid #D1D5DB;
+            font-weight: 600;
+        }
+        .tab-pill.active {
+            background: var(--navy);
+            color: #fff;
+            border-color: var(--navy);
+        }
+        .kpi-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+            padding: 10px;
+        }
+        .kpi-box {
+            background: var(--gold-light);
+            border: 1px solid #E5D5B5;
+            padding: 6px 8px;
+            border-radius: 4px;
+        }
+        .kpi-box span { font-size: 9px; color: var(--muted); display: block; }
+        .kpi-box strong { font-size: 13px; color: var(--navy); }
+
+        /* Tables */
+        table.std-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 8px 0;
+            font-size: 11.5px;
+        }
+        table.std-table th {
+            background: var(--navy);
+            color: #fff;
+            text-align: left;
+            padding: 7px 10px;
+            font-size: 11px;
+        }
+        table.std-table td {
+            padding: 7px 10px;
+            border-bottom: 1px solid var(--border);
+            vertical-align: top;
+        }
+        table.std-table tr:nth-child(even) { background: #F9FAFB; }
+
+        /* Invoice Preview Box */
+        .invoice-box {
+            border: 1.5px solid var(--navy);
+            border-radius: 6px;
+            padding: 12px 16px;
+            background: #FCFBF9;
+            margin: 10px 0;
+            font-size: 11px;
+        }
+        .inv-top {
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 2px solid var(--navy);
+            padding-bottom: 8px;
+            margin-bottom: 8px;
+        }
+
+        .footer-note {
+            margin-top: 18px;
+            padding-top: 10px;
+            border-top: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            font-size: 10.5px;
+            color: var(--muted);
+        }
+
+        @media print {
+            body { background: #fff; }
+            .no-print-bar { display: none !important; }
+            .page {
+                margin: 0;
+                box-shadow: none;
+                width: 100%;
+                min-height: auto;
+                padding: 10mm 12mm;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Action Bar (Hidden in PDF Print) -->
+    <div class="no-print-bar">
+        <div>
+            <strong>Roselet Jewels — Partner Presentation Document</strong>
+            <span style="font-size:12px; color:#D1D5DB; margin-left:10px;">(Formatted for A4 Portrait PDF)</span>
+        </div>
+        <button class="btn-pdf" onclick="window.print()">🖨️ Download / Save as PDF</button>
+    </div>
+
+    <!-- ==================== PAGE 1 ==================== -->
+    <div class="page">
+        <div class="doc-header">
+            <div class="doc-title">
+                <h1>ROSELET JEWELS</h1>
+                <p>Cloud E-Commerce Storefront, Automated GST Billing & Omnichannel CRM Blueprint</p>
+                <div class="meta-pills">
+                    <span class="pill">Base: Kerala, India</span>
+                    <span class="pill">Scope: All-India Delivery</span>
+                    <span class="pill">Category: Anti-Tarnish & Imitation Ornaments (HSN 7117)</span>
+                </div>
+            </div>
+            <div class="brand-logo-circle">
+                <span class="r-title">Roselet</span>
+                <span class="r-sub">Jewels</span>
+            </div>
+        </div>
+
+        <h2 class="sec-title">1. Executive Summary & Business Model</h2>
+        <p class="lead">
+            <strong>Roselet Jewels</strong> is positioned to capture the high-margin anti-tarnish (18K PVD stainless steel) and Kerala festive imitation jewelry market with pan-India delivery. Instead of paying heavy monthly subscription fees to platforms like Shopify or losing 2%–3% per transaction to payment gateways during launch, we are deploying a <strong>100% Cloud-Based Custom Storefront & Back-Office ERP</strong>. Customers browse our catalog online and complete their order via an automated WhatsApp bridge, while partners manage live inventory, GST invoicing, accounting, and Instagram/Facebook/WhatsApp chats from one unified cloud dashboard.
+        </p>
+
+        <h2 class="sec-title">2. End-to-End Order & Accounting Workflow</h2>
+        <div class="workflow-grid">
+            <div class="wf-step">
+                <span class="wf-num">STEP 1</span>
+                <h4>Customer Browses Site</h4>
+                <p>Clicks link from Instagram bio or ads. Selects ornaments on <strong>roseletjewels.com</strong> & enters delivery PIN code.</p>
+            </div>
+            <div class="wf-step">
+                <span class="wf-num">STEP 2</span>
+                <h4>Cloud Order Capture</h4>
+                <p>System saves Customer Profile & creates Order <strong>#RJ-1001</strong> in Cloud DB <em>before</em> opening WhatsApp.</p>
+            </div>
+            <div class="wf-step">
+                <span class="wf-num">STEP 3</span>
+                <h4>Direct UPI / Chat</h4>
+                <p>Customer sends pre-typed WhatsApp message. Admin shares UPI QR code (0% gateway fee) or confirms COD.</p>
+            </div>
+            <div class="wf-step">
+                <span class="wf-num">STEP 4</span>
+                <h4>1-Click Bill & Stock</h4>
+                <p>Admin clicks <strong>Confirm</strong>: Stock deducts automatically, 3% GST posts to Ledger, & PDF Invoice is generated.</p>
+            </div>
+        </div>
+
+        <h2 class="sec-title">3. Visual System Mockups (Customer View vs. Partner Admin View)</h2>
+        <div class="mockup-row">
+            <!-- Mobile Customer Storefront Mockup -->
+            <div class="phone-mockup">
+                <div class="phone-header">
+                    <h3>✨ ROSELET JEWELS</h3>
+                    <span>Anti-Tarnish & Imitation Ornaments | Pan-India</span>
+                </div>
+                <div class="p-grid">
+                    <div class="p-card">
+                        <div class="p-img">💍</div>
+                        <h5>18K Rose Gold Bangle</h5>
+                        <div style="font-size:9px; color:#6B7280;">SKU: RJ-101 | Waterproof</div>
+                        <div class="p-price"><s>₹799</s> ₹499</div>
+                        <span class="p-btn">+ Add to Bag</span>
+                    </div>
+                    <div class="p-card">
+                        <div class="p-img">📿</div>
+                        <h5>Kerala Temple Choker</h5>
+                        <div style="font-size:9px; color:#6B7280;">SKU: RJ-102 | Micro Gold</div>
+                        <div class="p-price"><s>₹1,299</s> ₹899</div>
+                        <span class="p-btn">+ Add to Bag</span>
+                    </div>
+                </div>
+                <div class="wa-checkout-box">
+                    <strong>🛒 Shopping Bag (2 Items) — Total: ₹1,398</strong>
+                    <div style="margin-top:4px; color:#374151;">
+                        • Name: Anjali Nair | Mob: 98470XXXXX<br>
+                        • Address: Marine Drive, Kochi, Kerala - 682001
+                    </div>
+                    <div class="wa-btn-mock">📲 Place Order via WhatsApp (No Extra Fee)</div>
+                </div>
+            </div>
+
+            <!-- Cloud Admin Panel Mockup -->
+            <div class="admin-mockup">
+                <div class="admin-bar">
+                    <span>🔐 ROSELET JEWELS — CLOUD ADMIN & ERP</span>
+                    <span style="color:var(--gold);">Live Cloud Sync</span>
+                </div>
+                <div class="admin-tabs">
+                    <span class="tab-pill active">📦 Orders & GST Billing</span>
+                    <span class="tab-pill">💍 Stock</span>
+                    <span class="tab-pill">📒 Accounts & P&L</span>
+                    <span class="tab-pill">💬 IG / FB / WA Inbox</span>
+                </div>
+                <div class="kpi-row">
+                    <div class="kpi-box">
+                        <span>TODAY'S SALES</span>
+                        <strong>₹14,850</strong>
+                    </div>
+                    <div class="kpi-box">
+                        <span>NET PROFIT (MTD)</span>
+                        <strong style="color:var(--green);">₹68,400</strong>
+                    </div>
+                    <div class="kpi-box">
+                        <span>LOW STOCK ALERTS</span>
+                        <strong style="color:#DC2626;">3 SKUs</strong>
+                    </div>
+                </div>
+                <div style="padding: 0 10px 10px 10px;">
+                    <table class="std-table" style="font-size:10px; margin:0;">
+                        <thead>
+                            <tr>
+                                <th>Order ID</th>
+                                <th>Customer & State</th>
+                                <th>Total (Inc. GST)</th>
+                                <th>Status / Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>#RJ-1004</strong></td>
+                                <td>Anjali (Kerala)</td>
+                                <td>₹1,398</td>
+                                <td><span style="background:#059669; color:#fff; padding:2px 6px; border-radius:3px;">✓ Confirm & Bill</span></td>
+                            </tr>
+                            <tr>
+                                <td><strong>#RJ-1003</strong></td>
+                                <td>Priya (Maharashtra)</td>
+                                <td>₹699</td>
+                                <td><span style="background:#1D4ED8; color:#fff; padding:2px 6px; border-radius:3px;">📄 PDF Invoice</span></td>
+                            </tr>
+                            <tr>
+                                <td><strong>#RJ-1002</strong></td>
+                                <td>Fathima (Kerala)</td>
+                                <td>₹499</td>
+                                <td><span style="background:#4B5563; color:#fff; padding:2px 6px; border-radius:3px;">🚚 Sent Tracking</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-note">
+            <span>Roselet Jewels — Confidential Partner Proposal</span>
+            <span>Page 1 of 2</span>
+        </div>
+    </div>
+
+    <!-- ==================== PAGE 2 ==================== -->
+    <div class="page page-break">
+        <h2 class="sec-title" style="margin-top:0;">4. Automated GST Tax Invoice Sample (HSN 7117 - 3% GST)</h2>
+        <p class="lead">
+            Because we ship across India from Kerala, our cloud billing engine automatically splits the 3% GST into <strong>1.5% CGST + 1.5% SGST</strong> for intra-state Kerala orders, and <strong>3.0% IGST</strong> for inter-state orders outside Kerala.
+        </p>
+
+        <div class="invoice-box">
+            <div class="inv-top">
+                <div>
+                    <strong style="font-size:14px; color:var(--navy);">ROSELET JEWELS</strong><br>
+                    <span>Kerala, India | Web: www.roseletjewels.com</span><br>
+                    <span>GSTIN: 32XXXXX0000X1Z5 (Applied) | HSN: 7117</span>
+                </div>
+                <div style="text-align:right;">
+                    <strong style="font-size:13px; color:var(--navy);">TAX INVOICE</strong><br>
+                    <span><strong>Invoice No:</strong> INV-2026-1004 | <strong>Date:</strong> 14-Oct-2026</span><br>
+                    <span><strong>Billed To:</strong> Anjali Nair, Kochi | <strong>Place of Supply:</strong> Kerala (32)</span>
+                </div>
+            </div>
+            <table class="std-table" style="margin:4px 0;">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Item Description & SKU</th>
+                        <th>HSN</th>
+                        <th>Qty</th>
+                        <th>Taxable Value</th>
+                        <th>CGST (1.5%)</th>
+                        <th>SGST (1.5%)</th>
+                        <th>Total (Inc. Tax)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>18K PVD Anti-Tarnish Rose Bangle (RJ-101)</td>
+                        <td>7117</td>
+                        <td>1</td>
+                        <td>₹484.46</td>
+                        <td>₹7.27</td>
+                        <td>₹7.27</td>
+                        <td><strong>₹499.00</strong></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Kerala Traditional Temple Choker (RJ-102)</td>
+                        <td>7117</td>
+                        <td>1</td>
+                        <td>₹872.82</td>
+                        <td>₹13.09</td>
+                        <td>₹13.09</td>
+                        <td><strong>₹899.00</strong></td>
+                    </tr>
+                    <tr style="background:#F3F4F6; font-weight:bold;">
+                        <td colspan="4" style="text-align:right;">GRAND TOTAL (Paid via UPI):</td>
+                        <td>₹1,357.28</td>
+                        <td>₹20.36</td>
+                        <td>₹20.36</td>
+                        <td style="color:var(--navy); font-size:12.5px;">₹1,398.00</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h2 class="sec-title">5. Core Modules & Partner Benefits</h2>
+        <table class="std-table">
+            <thead>
+                <tr>
+                    <th style="width:28%;">System Module</th>
+                    <th>Operational Advantage for Partners</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>1. Live Stock & Reorder Alert</strong></td>
+                    <td>Tracks exact purchase cost, selling price, and stock count per SKU. Automatically hides sold-out designs on the website and flags items dropping below 3 units.</td>
+                </tr>
+                <tr>
+                    <td><strong>2. Unified Social Inbox (IG + FB + WhatsApp)</strong></td>
+                    <td>Embeds Chatwoot Cloud so messages from Instagram DMs, Facebook Messenger, and WhatsApp appear in one dashboard. Also supports 10-second manual entry for direct DM orders.</td>
+                </tr>
+                <tr>
+                    <td><strong>3. Accounting & Real Profit Engine</strong></td>
+                    <td>Records stock purchases, packaging boxes, courier bills, and Meta Ad spend. Shows live <strong>Net Profit = Total Revenue – Product Cost (COGS) – Operating Expenses</strong>.</td>
+                </tr>
+                <tr>
+                    <td><strong>4. Customer 360° CRM Asset</strong></td>
+                    <td>Builds a permanent, searchable phonebook of every buyer and lead across India for repeat festive WhatsApp broadcasts (Onam, Vishu, Eid, Wedding Season).</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2 class="sec-title">6. Financial Comparison: Traditional SaaS vs. Our Cloud Stack</h2>
+        <table class="std-table">
+            <thead>
+                <tr>
+                    <th>Expense Category</th>
+                    <th>Standard Shopify + Paid Plugins</th>
+                    <th>Roselet Custom Cloud Architecture</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>E-Commerce & Admin ERP Software</strong></td>
+                    <td>₹2,500 – ₹3,500 / month</td>
+                    <td><strong style="color:var(--green);">₹0 / month (Owned In-House Code)</strong></td>
+                </tr>
+                <tr>
+                    <td><strong>WhatsApp & IG/FB Unified Inbox</strong></td>
+                    <td>₹2,500 – ₹3,500 / month (Interakt/Wati)</td>
+                    <td><strong style="color:var(--green);">₹0 / month (Chatwoot Cloud Free Tier)</strong></td>
+                </tr>
+                <tr>
+                    <td><strong>Cloud Database & Hosting</strong></td>
+                    <td>Included in plan</td>
+                    <td><strong style="color:var(--green);">₹0 / month (Supabase + Render Free Tier)</strong></td>
+                </tr>
+                <tr>
+                    <td><strong>Payment Gateway Commission</strong></td>
+                    <td>2.0% to 3.0% deducted on every sale</td>
+                    <td><strong style="color:var(--green);">0% Fee (Direct UPI via WhatsApp)</strong></td>
+                </tr>
+                <tr>
+                    <td><strong>Domain (`roseletjewels.com`)</strong></td>
+                    <td>~₹900 / year</td>
+                    <td><strong>~₹900 / year</strong></td>
+                </tr>
+                <tr style="background:var(--gold-light); font-weight:bold;">
+                    <td>TOTAL FIXED MONTHLY SOFTWARE COST</td>
+                    <td style="color:#DC2626;">₹5,000 – ₹7,000 / month (₹72,000/yr)</td>
+                    <td style="color:var(--green); font-size:12.5px;">₹0 / month (100% Lean Startup)</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2 class="sec-title">7. 30-Day Launch Roadmap</h2>
+        <table class="std-table">
+            <thead>
+                <tr>
+                    <th style="width:20%;">Timeline</th>
+                    <th>Key Milestone</th>
+                    <th>Owner / Action Item</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Week 1</strong></td>
+                    <td>Brand & Domain Lock</td>
+                    <td>Register <code>roseletjewels.com</code>, lock <code>@roseletjewels</code> social handles, finalize logo.</td>
+                </tr>
+                <tr>
+                    <td><strong>Week 2</strong></td>
+                    <td>Cloud ERP Deployment</td>
+                    <td>Deploy Web Storefront, Admin Panel, Supabase DB, & link IG/FB/WhatsApp Inbox.</td>
+                </tr>
+                <tr>
+                    <td><strong>Week 3</strong></td>
+                    <td>Compliance & Sourcing</td>
+                    <td>Complete GST (HSN 7117) & Udyam registration; procure initial anti-tarnish stock & 3-ply boxes.</td>
+                </tr>
+                <tr>
+                    <td><strong>Week 4</strong></td>
+                    <td>Catalog Upload & Launch</td>
+                    <td>Upload initial 40 SKUs with photos, test courier tie-ups (Shiprocket), and go live.</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="footer-note">
+            <span>Roselet Jewels — Confidential Partner Proposal</span>
+            <span>Page 2 of 2</span>
+        </div>
+    </div>
+
+</body>
+</html>
+
+How to Export the Clean 2-Page PDF in 10 Seconds:
+
+Copy the code block above, paste it into Notepad or VS Code, and save it as partner_proposal.html.
+
+Double-click partner_proposal.html to open it in your browser.
+
+Click the gold "🖨️ Download / Save as PDF" button in the top bar:
+
+Destination: Save as PDF
+
+Paper Size: A4
+
+Margins: Default or None
+
+Background Graphics: Checked (Automatically enabled by the code so the navy-blue and gold executive headers render in full color).
+
+Sign in
+
+Gemini may display inaccurate info, including about people, so double-check its responses.
+
+Google Privacy Policy
+Opens in a new window
+Google Terms of Service
+Opens in a new window
+Your privacy & Gemini Apps
+Opens in a new window

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bronzeGold4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="50%" stop-color="#B8860B"/>
+      <stop offset="100%" stop-color="#8B6508"/>
+    </linearGradient>
+    <linearGradient id="creamBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF8F5"/>
+      <stop offset="100%" stop-color="#EFE9DE"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Warm Ivory Pearl Canvas -->
+  <rect width="512" height="512" rx="28" fill="url(#creamBg)"/>
+
+  <!-- Icon: Minimalist Contemporary Roselet Hoop -->
+  <g id="icon">
+    <!-- Delicate Outer Hoop Ring -->
+    <circle cx="256" cy="180" r="102" fill="#FFFFFF" stroke="url(#bronzeGold4)" stroke-width="2.5"/>
+    <circle cx="256" cy="180" r="95" fill="none" stroke="#D8CFC4" stroke-width="0.8"/>
+
+    <!-- Continuous Fine Line Art Roselet Blossom -->
+    <!-- Left Blooming Petal -->
+    <path d="M 256 125 C 225 140 215 170 230 195 C 242 215 256 225 256 225" 
+          fill="none" stroke="url(#bronzeGold4)" stroke-width="3" stroke-linecap="round"/>
+          
+    <!-- Right Blooming Petal -->
+    <path d="M 256 125 C 287 140 297 170 282 195 C 270 215 256 225 256 225" 
+          fill="none" stroke="url(#bronzeGold4)" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Inner Rosebud Silhouette -->
+    <path d="M 256 142 C 242 152 238 170 248 185 C 254 194 256 198 256 198 C 256 198 258 194 264 185 C 274 170 270 152 256 142 Z" 
+          fill="url(#bronzeGold4)" opacity="0.9"/>
+
+    <!-- Floating Top Solitaire Star -->
+    <polygon points="256,104 259,113 268,115 259,117 256,126 253,117 244,115 253,113" fill="#B8860B"/>
+    <circle cx="256" cy="115" r="1.5" fill="#FFFFFF"/>
+
+    <!-- Minimal Pendant Bail / Top Loop -->
+    <path d="M 250 78 L 262 78" stroke="url(#bronzeGold4)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 253 78 L 253 68 C 253 64 259 64 259 68 L 259 78" fill="none" stroke="url(#bronzeGold4)" stroke-width="2"/>
+  </g>
+
+  <!-- Wordmark Section -->
+  <g id="wordmark">
+    <!-- Starlet Sparkle -->
+    <polygon points="256,315 258,322 265,324 258,326 256,333 254,326 247,324 254,322" fill="#B8860B"/>
+
+    <!-- Brand Name: ROSELET in High-End Charcoal Espresso -->
+    <text x="256" y="372" 
+          text-anchor="middle" 
+          font-family="'Playfair Display', 'Bodoni MT', 'Didot', Georgia, serif" 
+          font-size="44" 
+          font-weight="700" 
+          letter-spacing="9" 
+          fill="#1C1917">ROSELET</text>
+
+    <!-- Sub-Brand: JEWELS with Bronze Accent Rules -->
+    <g transform="translate(256, 398)">
+      <line x1="-110" y1="0" x2="-55" y2="0" stroke="url(#bronzeGold4)" stroke-width="1.2"/>
+      <circle cx="-52" cy="0" r="2" fill="#B8860B"/>
+
+      <text x="0" y="5" 
+            text-anchor="middle" 
+            font-family="'Montserrat', 'Century Gothic', 'Helvetica Neue', sans-serif" 
+            font-size="16" 
+            font-weight="600" 
+            letter-spacing="14" 
+            fill="#B8860B">JEWELS</text>
+            
+      <circle cx="52" cy="0" r="2" fill="#B8860B"/>
+      <line x1="55" y1="0" x2="110" y2="0" stroke="url(#bronzeGold4)" stroke-width="1.2"/>
+    </g>
+  </g>
+
+  <!-- Tagline Section -->
+  <g id="tagline">
+    <text x="256" y="445" 
+          text-anchor="middle" 
+          font-family="'Montserrat', 'Arial', sans-serif" 
+          font-size="9.5" 
+          font-weight="500" 
+          letter-spacing="6" 
+          fill="#78716C">EVERYDAY DEMI-FINE &bull; KERALA</text>
+  </g>
+</svg>

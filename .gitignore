@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets (Do not commit production secrets to Git!)
+.streamlit/secrets.toml
+
+# Local database file
+local_roselet.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS specific files
+.DS_Store
+Thumbs.db

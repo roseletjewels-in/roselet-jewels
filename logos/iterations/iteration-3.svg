@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="wineGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDF1EC"/>
+      <stop offset="40%" stop-color="#E5AD9F"/>
+      <stop offset="80%" stop-color="#C98677"/>
+      <stop offset="100%" stop-color="#9C584A"/>
+    </linearGradient>
+    <radialGradient id="bordeauxBg" cx="50%" cy="38%" r="65%">
+      <stop offset="0%" stop-color="#4A0F21"/>
+      <stop offset="55%" stop-color="#2D0713"/>
+      <stop offset="100%" stop-color="#140207"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Deep Bordeaux Wine Canvas -->
+  <rect width="512" height="512" rx="28" fill="url(#bordeauxBg)"/>
+
+  <!-- Icon: Brilliant Faceted Gem Roselet -->
+  <g id="icon">
+    <!-- Fine Gold Circular Halo -->
+    <circle cx="256" cy="180" r="106" fill="none" stroke="url(#wineGold)" stroke-width="1.5" stroke-dasharray="2,5"/>
+    <circle cx="256" cy="180" r="98" fill="#20040D" stroke="url(#wineGold)" stroke-width="2"/>
+
+    <!-- 8-Sided Gemstone Outer Facets -->
+    <polygon points="256,92 318,118 344,180 318,242 256,268 194,242 168,180 194,118" 
+             fill="none" stroke="url(#wineGold)" stroke-width="1.8"/>
+
+    <!-- Inner Rose Bloom Geometry (Connecting inner facet nodes) -->
+    <path d="M 256 120 C 285 135 295 165 280 195 C 265 220 240 215 230 195 C 220 170 235 140 256 120 Z" 
+          fill="url(#wineGold)" opacity="0.3"/>
+          
+    <path d="M 256 130 C 235 145 228 170 240 190 C 250 205 270 200 276 185 C 285 165 270 145 256 130 Z" 
+          fill="none" stroke="url(#wineGold)" stroke-width="2.5"/>
+
+    <path d="M 215 155 C 215 185 240 215 256 225 C 272 215 297 185 297 155" 
+          fill="none" stroke="url(#wineGold)" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Center Solitaire Starlet Diamond -->
+    <polygon points="256,165 260,176 271,180 260,184 256,195 252,184 241,180 252,176" fill="#FFFFFF"/>
+    <circle cx="256" cy="180" r="2" fill="#E5AD9F"/>
+
+    <!-- Crown & Accent Points -->
+    <circle cx="256" cy="92" r="3" fill="#FFFFFF"/>
+    <circle cx="256" cy="268" r="3" fill="#FFFFFF"/>
+    <circle cx="168" cy="180" r="2.5" fill="url(#wineGold)"/>
+    <circle cx="344" cy="180" r="2.5" fill="url(#wineGold)"/>
+  </g>
+
+  <!-- Wordmark Section -->
+  <g id="wordmark">
+    <!-- Starlet Sparkle -->
+    <path d="M 256 310 L 258 318 L 266 320 L 258 322 L 256 330 L 254 322 L 246 320 L 254 318 Z" fill="#FDF1EC"/>
+
+    <!-- Brand Name: ROSELET -->
+    <text x="256" y="368" 
+          text-anchor="middle" 
+          font-family="'Playfair Display', 'Bodoni MT', 'Didot', Georgia, serif" 
+          font-size="44" 
+          font-weight="600" 
+          letter-spacing="9" 
+          fill="#FFFFFF">ROSELET</text>
+
+    <!-- Sub-Brand: JEWELS with Gold Rules -->
+    <g transform="translate(256, 396)">
+      <line x1="-115" y1="0" x2="-55" y2="0" stroke="url(#wineGold)" stroke-width="1.2"/>
+      <polygon points="-55,0 -59,-2.5 -59,2.5" fill="url(#wineGold)"/>
+      
+      <text x="0" y="5" 
+            text-anchor="middle" 
+            font-family="'Montserrat', 'Century Gothic', 'Helvetica Neue', sans-serif" 
+            font-size="16" 
+            font-weight="500" 
+            letter-spacing="14" 
+            fill="url(#wineGold)">JEWELS</text>
+            
+      <polygon points="55,0 59,-2.5 59,2.5" fill="url(#wineGold)"/>
+      <line x1="55" y1="0" x2="115" y2="0" stroke="url(#wineGold)" stroke-width="1.2"/>
+    </g>
+  </g>
+
+  <!-- Tagline Section -->
+  <g id="tagline">
+    <text x="256" y="445" 
+          text-anchor="middle" 
+          font-family="'Montserrat', 'Arial', sans-serif" 
+          font-size="9.5" 
+          font-weight="400" 
+          letter-spacing="6" 
+          fill="#B88A96">FESTIVE &bull; ANTI-TARNISH</text>
+  </g>
+</svg>

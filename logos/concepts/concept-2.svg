@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="gold2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3E7C4"/>
+      <stop offset="40%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA8214"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="512" height="512" rx="24" fill="#0A1931"/>
+
+  <!-- Subtle Diamond Facet Frame -->
+  <g id="icon">
+    <!-- Diamond/Gem Outline (Octagonal/Emerald Cut) -->
+    <polygon points="256,60 336,105 336,215 256,260 176,215 176,105" 
+             fill="#0E2244" stroke="url(#gold2)" stroke-width="2.5"/>
+    <polygon points="256,76 322,113 322,207 256,244 190,207 190,113" 
+             fill="none" stroke="url(#gold2)" stroke-width="1" stroke-dasharray="4,4" opacity="0.6"/>
+
+    <!-- Geometric Rose Petals Inside Gem -->
+    <!-- Center Spiral Rose Heart -->
+    <path d="M 256 128 C 246 128 238 136 238 146 C 238 158 250 166 256 172 C 262 166 274 158 274 146 C 274 136 266 128 256 128 Z" 
+          fill="url(#gold2)"/>
+          
+    <!-- Outer Overlapping Geometric Petals -->
+    <path d="M 238 140 C 220 150 216 175 230 192 C 242 206 256 214 256 214" 
+          fill="none" stroke="url(#gold2)" stroke-width="3" stroke-linecap="round"/>
+          
+    <path d="M 274 140 C 292 150 296 175 282 192 C 270 206 256 214 256 214" 
+          fill="none" stroke="url(#gold2)" stroke-width="3" stroke-linecap="round"/>
+          
+    <path d="M 226 125 C 242 110 270 110 286 125" 
+          fill="none" stroke="url(#gold2)" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- Radiant Light Points -->
+    <circle cx="256" cy="60" r="3.5" fill="#FFFFFF"/>
+    <circle cx="256" cy="260" r="3.5" fill="#FFFFFF"/>
+    <circle cx="176" cy="160" r="2.5" fill="url(#gold2)"/>
+    <circle cx="336" cy="160" r="2.5" fill="url(#gold2)"/>
+  </g>
+
+  <!-- Wordmark -->
+  <g id="wordmark">
+    <!-- Starlet Sparkle Above Brand -->
+    <path d="M 256 295 L 258 304 L 267 306 L 258 308 L 256 317 L 254 308 L 245 306 L 254 304 Z" fill="#EED8A1"/>
+
+    <text x="256" y="362" 
+          text-anchor="middle" 
+          font-family="'Playfair Display', 'Bodoni MT', 'Didot', Georgia, serif" 
+          font-size="44" 
+          font-weight="600" 
+          letter-spacing="8" 
+          fill="#FFFFFF">ROSELET</text>
+
+    <!-- Thin Divider with center jewel -->
+    <line x1="140" y1="388" x2="230" y2="388" stroke="url(#gold2)" stroke-width="1"/>
+    <polygon points="256,384 260,388 256,392 252,388" fill="url(#gold2)"/>
+    <line x1="282" y1="388" x2="372" y2="388" stroke="url(#gold2)" stroke-width="1"/>
+
+    <text x="256" y="426" 
+          text-anchor="middle" 
+          font-family="'Montserrat', 'Helvetica Neue', Arial, sans-serif" 
+          font-size="17" 
+          font-weight="400" 
+          letter-spacing="16" 
+          fill="url(#gold2)">JEWELS</text>
+  </g>
+
+  <g id="tagline">
+    <text x="256" y="468" 
+          text-anchor="middle" 
+          font-family="'Montserrat', Arial, sans-serif" 
+          font-size="10" 
+          font-weight="300" 
+          letter-spacing="6" 
+          fill="#8E9EB5">KERALA &bull; PAN-INDIA</text>
+  </g>
+</svg>

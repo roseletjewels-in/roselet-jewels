@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 512">
+  <defs>
+    <linearGradient id="goldH4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDF2D5"/>
+      <stop offset="40%" stop-color="#D4AF37"/>
+      <stop offset="75%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#997528"/>
+    </linearGradient>
+    <linearGradient id="navyH4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E2140"/>
+      <stop offset="100%" stop-color="#071326"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1024" height="512" rx="28" fill="url(#navyH4)"/>
+
+  <!-- Left Side: Icon Group -->
+  <g id="icon" transform="translate(190, 256)">
+    <!-- Outer Shield/Pendant Circle with subtle gold stroke -->
+    <circle cx="0" cy="0" r="140" fill="#0A1830" stroke="url(#goldH4)" stroke-width="2.5"/>
+    <circle cx="0" cy="0" r="130" fill="none" stroke="url(#goldH4)" stroke-width="1" stroke-dasharray="6,4" opacity="0.6"/>
+
+    <!-- Blooming Roselet Geometric Silhouette -->
+    <!-- Outer Petals Layer -->
+    <path d="M 0 -70 C 45 -40 60 20 20 60 C -15 90 -65 70 -75 25 C -85 -20 -40 -60 0 -70 Z" 
+          fill="none" stroke="url(#goldH4)" stroke-width="3" stroke-linecap="round"/>
+          
+    <path d="M 0 -70 C -45 -40 -60 20 -20 60 C 15 90 65 70 75 25 C 85 -20 40 -60 0 -70 Z" 
+          fill="none" stroke="url(#goldH4)" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Inner Rosebud Core -->
+    <path d="M 0 -35 C 22 -15 28 15 10 32 C -8 48 -32 38 -36 15 C -40 -8 -18 -30 0 -35 Z" 
+          fill="url(#goldH4)" opacity="0.85"/>
+          
+    <path d="M 0 -35 C -22 -15 -28 15 -10 32 C 8 48 32 38 36 15 C 40 -8 18 -30 0 -35 Z" 
+          fill="url(#goldH4)" opacity="0.95"/>
+
+    <!-- Central Diamond Starburst -->
+    <polygon points="0,-18 4,-4 18,0 4,4 0,18 -4,4 -18,0 -4,-4" fill="#FFFFFF"/>
+    <circle cx="0" cy="0" r="2.5" fill="url(#goldH4)"/>
+
+    <!-- Floating Sparkle Accents -->
+    <path d="M 68 -65 L 71 -56 L 80 -53 L 71 -50 L 68 -41 L 65 -50 L 56 -53 L 65 -56 Z" fill="#FFFFFF"/>
+    <path d="M -70 55 L -68 62 L -61 64 L -68 66 L -70 73 L -72 66 L -79 64 L -72 62 Z" fill="#FDF2D5" opacity="0.8"/>
+  </g>
+
+  <!-- Right Side: Wordmark & Tagline -->
+  <g id="wordmark" transform="translate(400, 200)">
+    <!-- Primary Brand Wordmark: ROSELET -->
+    <text x="0" y="55" 
+          font-family="'Playfair Display', 'Cinzel', 'Didot', Georgia, serif" 
+          font-size="78" 
+          font-weight="700" 
+          letter-spacing="10" 
+          fill="#FFFFFF">ROSELET</text>
+
+    <!-- Sub-Brand: JEWELS with Accent Rule -->
+    <g transform="translate(4, 115)">
+      <line x1="0" y1="0" x2="65" y2="0" stroke="url(#goldH4)" stroke-width="2"/>
+      <polygon points="65,0 60,-3 60,3" fill="url(#goldH4)"/>
+      
+      <text x="80" y="8" 
+            font-family="'Montserrat', 'Helvetica Neue', Arial, sans-serif" 
+            font-size="28" 
+            font-weight="600" 
+            letter-spacing="18" 
+            fill="url(#goldH4)">JEWELS</text>
+            
+      <line x1="390" y1="0" x2="480" y2="0" stroke="url(#goldH4)" stroke-width="2"/>
+      <circle cx="488" cy="0" r="3.5" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Tagline: Everyday Luxury & Anti-Tarnish Ornaments -->
+    <g id="tagline" transform="translate(4, 175)">
+      <text x="0" y="0" 
+            font-family="'Montserrat', 'Arial', sans-serif" 
+            font-size="14" 
+            font-weight="400" 
+            letter-spacing="6" 
+            fill="#9FB2C8">ANTI-TARNISH &bull; DEMI-FINE ORNAMENTS</text>
+    </g>
+  </g>
+</svg>

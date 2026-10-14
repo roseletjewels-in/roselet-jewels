@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roselet Jewels — Luxury Logo Suite & Color Iterations</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    padding: 2.5rem;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  body.light { background: #f4f5f7; color: #1f2937; }
+  body.dark { background: #0c1017; color: #f9fafb; }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1.2rem;
+    border-bottom: 2px solid rgba(197, 160, 89, 0.4);
+  }
+  .title-group h1 {
+    font-size: 1.85rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+  .title-group p {
+    font-size: 0.95rem;
+    color: #6b7280;
+    margin-top: 5px;
+  }
+  body.dark .title-group p { color: #9ca3af; }
+
+  .actions-bar {
+    display: flex;
+    gap: 12px;
+  }
+  .btn-action {
+    padding: 0.6rem 1.2rem;
+    border: 1px solid #c5a059;
+    border-radius: 8px;
+    background: #c5a059;
+    color: #0a1931;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 0.875rem;
+    transition: all 0.2s ease;
+  }
+  .btn-action:hover { opacity: 0.9; transform: scale(1.02); }
+
+  /* Section Titles */
+  .section-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin: 2rem 0 1rem 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title span.badge {
+    font-size: 0.75rem;
+    background: #c5a059;
+    color: #0a1931;
+    padding: 3px 8px;
+    border-radius: 4px;
+    text-transform: uppercase;
+  }
+
+  /* Grid Layout */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+  }
+  .card {
+    border: 1px solid rgba(197, 160, 89, 0.35);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(197, 160, 89, 0.25);
+  }
+  .card-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2.2rem;
+    min-height: 290px;
+  }
+  body.light .card-img { background: #ffffff; }
+  body.dark .card-img { background: #070d18; }
+  
+  .card-img img {
+    max-width: 100%;
+    max-height: 250px;
+    filter: drop-shadow(0 4px 15px rgba(0,0,0,0.18));
+  }
+  .card-label {
+    padding: 1.2rem 1.4rem;
+    border-top: 1px solid rgba(197, 160, 89, 0.3);
+  }
+  body.light .card-label { background: #faf8f5; }
+  body.dark .card-label { background: #131c2d; }
+
+  .color-swatch-bar {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+  .swatch {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1.5px solid rgba(255,255,255,0.6);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  }
+
+  .concept-tag {
+    display: inline-block;
+    background: rgba(197, 160, 89, 0.2);
+    color: #c5a059;
+    font-weight: 700;
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+  }
+  .card-label h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 5px;
+  }
+  .card-label p {
+    font-size: 0.88rem;
+    color: #555e6d;
+    line-height: 1.45;
+  }
+  body.dark .card-label p { color: #cbd5e1; }
+
+  /* Favicon Strip */
+  .favicon-section {
+    margin-top: 2.5rem;
+    padding: 1.8rem;
+    border-radius: 14px;
+    border: 1px solid rgba(197, 160, 89, 0.35);
+  }
+  body.light .favicon-section { background: #ffffff; }
+  body.dark .favicon-section { background: #111a2c; }
+  
+  .favicon-section h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.4rem;
+  }
+  .favicon-section p {
+    font-size: 0.88rem;
+    color: #6b7280;
+    margin-bottom: 1.5rem;
+  }
+  body.dark .favicon-section p { color: #9ca3af; }
+
+  .fav-strip {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    align-items: flex-end;
+  }
+  .fav-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .fav-box .label {
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  .fav-scales {
+    display: flex;
+    gap: 1.2rem;
+    align-items: flex-end;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid rgba(197, 160, 89, 0.3);
+  }
+  .scale-item {
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+  .scale-item img {
+    display: block;
+    margin: 0 auto 5px auto;
+    border-radius: 3px;
+  }
+</style>
+</head>
+<body class="light">
+  <div class="header">
+    <div class="title-group">
+      <h1>✨ Roselet Jewels — Professional Logo Suite</h1>
+      <p>Boutique Demi-Fine, Anti-Tarnish & Traditional Imitation Jewelry | Kerala & All-India</p>
+    </div>
+    <div class="actions-bar">
+      <button class="btn-action" onclick="document.body.classList.toggle('dark'); document.body.classList.toggle('light'); this.textContent = document.body.classList.contains('dark') ? '☀️ Light Mode' : '🌙 Dark Mode';">🌙 Dark Mode</button>
+    </div>
+  </div>
+
+  <!-- SECTION 1: NEW PROFESSIONAL COLOR ITERATIONS -->
+  <div class="section-title">
+    <span>🎨 High-End Professional Color Iterations</span>
+    <span class="badge">New Batch</span>
+  </div>
+
+  <div class="grid">
+    <!-- Iteration 1 -->
+    <div class="card">
+      <div class="card-img">
+        <img src="iterations/iteration-1.svg" alt="Iteration 1: Blush Rose Gold & Onyx Noir">
+      </div>
+      <div class="card-label">
+        <div class="color-swatch-bar">
+          <div class="swatch" style="background:#EAA698;" title="Blush Rose Gold"></div>
+          <div class="swatch" style="background:#1C1D21;" title="Onyx Noir"></div>
+          <div class="swatch" style="background:#FFFFFF;" title="Diamond Sparkle"></div>
+        </div>
+        <span class="concept-tag">Iteration 1 &bull; Modern Demi-Fine</span>
+        <h3>Blush Rose Gold & Onyx Noir</h3>
+        <p><strong>Vibe:</strong> High-fashion international luxury. Precision continuous-line blooming rosebud intertwined with a sleek serif "R" inside a rose-gold circular bezel with a solitaire diamond.</p>
+      </div>
+    </div>
+
+    <!-- Iteration 2 -->
+    <div class="card">
+      <div class="card-img">
+        <img src="iterations/iteration-2.svg" alt="Iteration 2: Imperial Emerald Green & Champagne Gold">
+      </div>
+      <div class="card-label">
+        <div class="color-swatch-bar">
+          <div class="swatch" style="background:#0F4235;" title="Imperial Emerald"></div>
+          <div class="swatch" style="background:#E5C77A;" title="Champagne Gold"></div>
+          <div class="swatch" style="background:#FFFFFF;" title="Brilliant Cut"></div>
+        </div>
+        <span class="concept-tag">Iteration 2 &bull; Heritage Royal</span>
+        <h3>Imperial Emerald Green & Champagne Gold</h3>
+        <p><strong>Vibe:</strong> Royal jewelry house prestige (Rolex/BVLGARI aesthetic). Symmetrical 4-point botanical rosette crest on deep emerald green, conveying timeless luxury and trust.</p>
+      </div>
+    </div>
+
+    <!-- Iteration 3 -->
+    <div class="card">
+      <div class="card-img">
+        <img src="iterations/iteration-3.svg" alt="Iteration 3: Deep Bordeaux Wine & Polished Rose Gold">
+      </div>
+      <div class="card-label">
+        <div class="color-swatch-bar">
+          <div class="swatch" style="background:#4A0F21;" title="Bordeaux Wine"></div>
+          <div class="swatch" style="background:#E5AD9F;" title="Polished Rose Gold"></div>
+          <div class="swatch" style="background:#FFFFFF;" title="Solitaire White"></div>
+        </div>
+        <span class="concept-tag">Iteration 3 &bull; Romantic Bridal</span>
+        <h3>Deep Bordeaux Wine & Polished Rose Gold</h3>
+        <p><strong>Vibe:</strong> Regal romance, bridal elegance, and festive celebrations. An 8-facet gemstone cut where the facet reflections form a blooming rosebud with a radiant diamond heart.</p>
+      </div>
+    </div>
+
+    <!-- Iteration 4 -->
+    <div class="card">
+      <div class="card-img">
+        <img src="iterations/iteration-4.svg" alt="Iteration 4: Warm Ivory Pearl & Deep Bronze">
+      </div>
+      <div class="card-label">
+        <div class="color-swatch-bar">
+          <div class="swatch" style="background:#FAF8F5; border-color:#ccc;" title="Ivory Pearl"></div>
+          <div class="swatch" style="background:#B8860B;" title="Brushed Bronze Gold"></div>
+          <div class="swatch" style="background:#1C1917;" title="Charcoal Espresso"></div>
+        </div>
+        <span class="concept-tag">Iteration 4 &bull; Minimalist Clean</span>
+        <h3>Warm Ivory Pearl & Deep Bronze Gold</h3>
+        <p><strong>Vibe:</strong> Contemporary Scandinavian/Mejuri luxury. Designed on a warm pearl cream canvas, featuring a continuous fine-line roselet hoop pendant that looks stunning on product tags and Instagram.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 2: ORIGINAL FOUNDATIONAL CONCEPTS -->
+  <div class="section-title">
+    <span>🏛️ Classic Royal Navy & Gold Suite</span>
+    <span class="badge" style="background:#162b4d; color:#eed8a1;">Core Series</span>
+  </div>
+
+  <div class="grid">
+    <!-- Concept 1 -->
+    <div class="card">
+      <div class="card-img">
+        <img src="concepts/concept-1.svg" alt="Concept 1: Royal Monogram Seal">
+      </div>
+      <div class="card-label">
+        <span class="concept-tag">Concept 1 &bull; Navy & Gold</span>
+        <h3>Royal Monogram & Blooming Rose Seal</h3>
+        <p>Deep royal navy medallion with double gold filigree rings and an intertwining "R" blooming into a miniature rosebud.</p>
+      </div>
+    </div>
+
+    <!-- Concept 3 -->
+    <div class="card">
+      <div class="card-img">
+        <img src="concepts/concept-3.svg" alt="Concept 3: Four-Way Interlocked 'R' Rosette Crest">
+      </div>
+      <div class="card-label">
+        <span class="concept-tag">Concept 3 &bull; Medallion</span>
+        <h3>The 4-Way Interlocked 'R' Rosette Crest</h3>
+        <p>Four mirrored "R" letterforms intertwined around a central 8-point diamond starburst, ideal for wax seals and box stamping.</p>
+      </div>
+    </div>
+
+    <!-- Concept 4 -->
+    <div class="card">
+      <div class="card-img">
+        <img src="concepts/concept-4.svg" alt="Concept 4: Horizontal Combination Mark">
+      </div>
+      <div class="card-label">
+        <span class="concept-tag">Concept 4 &bull; Wide Header</span>
+        <h3>Horizontal Storefront Combination Mark</h3>
+        <p>Wide combination mark designed for your e-commerce website navbar, packaging shipper boxes, and official GST tax invoices.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 3: FAVICON LEGIBILITY CHECK -->
+  <div class="favicon-section">
+    <h2>🔍 Small-Size & Favicon Legibility Check</h2>
+    <p>Testing legibility at 64px, 32px, and 16px to ensure your logo stays crisp as an Instagram profile photo, browser favicon, and tiny jewelry tag.</p>
+    
+    <div class="fav-strip">
+      <!-- Iteration 1 -->
+      <div class="fav-box">
+        <div class="label">Iter 1 (Rose Gold/Onyx)</div>
+        <div class="fav-scales" style="background:#141519; color:#EAA698;">
+          <div class="scale-item"><img src="iterations/iteration-1.svg" width="64" height="64">64px</div>
+          <div class="scale-item"><img src="iterations/iteration-1.svg" width="32" height="32">32px</div>
+          <div class="scale-item"><img src="iterations/iteration-1.svg" width="16" height="16">16px</div>
+        </div>
+      </div>
+
+      <!-- Iteration 2 -->
+      <div class="fav-box">
+        <div class="label">Iter 2 (Emerald/Champagne)</div>
+        <div class="fav-scales" style="background:#082820; color:#E5C77A;">
+          <div class="scale-item"><img src="iterations/iteration-2.svg" width="64" height="64">64px</div>
+          <div class="scale-item"><img src="iterations/iteration-2.svg" width="32" height="32">32px</div>
+          <div class="scale-item"><img src="iterations/iteration-2.svg" width="16" height="16">16px</div>
+        </div>
+      </div>
+
+      <!-- Iteration 3 -->
+      <div class="fav-box">
+        <div class="label">Iter 3 (Bordeaux Wine)</div>
+        <div class="fav-scales" style="background:#2D0713; color:#E5AD9F;">
+          <div class="scale-item"><img src="iterations/iteration-3.svg" width="64" height="64">64px</div>
+          <div class="scale-item"><img src="iterations/iteration-3.svg" width="32" height="32">32px</div>
+          <div class="scale-item"><img src="iterations/iteration-3.svg" width="16" height="16">16px</div>
+        </div>
+      </div>
+
+      <!-- Iteration 4 -->
+      <div class="fav-box">
+        <div class="label">Iter 4 (Ivory/Bronze)</div>
+        <div class="fav-scales" style="background:#FAF8F5; color:#B8860B;">
+          <div class="scale-item"><img src="iterations/iteration-4.svg" width="64" height="64">64px</div>
+          <div class="scale-item"><img src="iterations/iteration-4.svg" width="32" height="32">32px</div>
+          <div class="scale-item"><img src="iterations/iteration-4.svg" width="16" height="16">16px</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
