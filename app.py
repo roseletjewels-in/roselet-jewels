@@ -49,12 +49,20 @@ st.set_page_config(
 )
 
 # Initialize Database (SQLite fallback or Supabase Cloud)
-init_db()
+try:
+    init_db()
+except Exception as e:
+    pass
 
 # Secrets & Constants
 def get_config(key: str, default: str = "") -> str:
-    if hasattr(st, "secrets") and key in st.secrets:
-        return str(st.secrets[key])
+    try:
+        if hasattr(st, "secrets") and key in st.secrets:
+            return str(st.secrets[key])
+        if hasattr(st, "secrets") and "supabase" in st.secrets and key in st.secrets["supabase"]:
+            return str(st.secrets["supabase"][key])
+    except Exception:
+        pass
     return os.environ.get(key, default)
 
 ADMIN_PASSWORD = get_config("ADMIN_PASSWORD", "roseletadmin2026")
